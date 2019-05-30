@@ -3,9 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
-* {
-  border: 1px solid black;
-}
+
 h3 {
     margin-top: 40px;
     font-family: 'Open Sans', sans-serif;

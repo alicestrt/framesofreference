@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Deployment
+```
+make publish
+```
+Don't forget to uncomment the vue.config.js lines!
