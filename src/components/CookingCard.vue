@@ -7,6 +7,8 @@
 p {
   text-align: justify;
   font-size: 18px;
+  color: #212322;
+  font-family: 'Inconsolata', monospace;
 }
 
 </style>
@@ -17,6 +19,7 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
+              <p style="text-align: center; font-weight: bold;">We love food, we hate having to cook it</p>
                 <p>
                     There is a <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="theory_of_evolution" title="Theory of evolution ">theory of evolution</span> that says the following: the development of the Homo Sapiens brain happened
                     mainly due to the discovery of fire, and subsequently cooking. By using less energy to hunt, and spending less time chewing raw food, the human brain had increasingly more space and time to develop new activities, ponder upon its surroundings
@@ -27,7 +30,7 @@ p {
                 <p>
                     Women have been pushed towards domestic work ever since the evolution from more equal hunter-gatherer societies to settled agricultural societies (Smith, 1997). Traditionally, men provided the food, earned at first by hunting, and later on through their
                     paid job. Women would be in charge of preparing food for everyone, and that role rarely changed. Throughout time, cooking as a means of caregiving became a practice identified more with women, while cooking for entertainment or skill
-                    display was, and still is, associated with men (Cairns et al. 2010). In many households it is still often considered a special occasion when the man of the house cooks. This view was reinforced in cooking advice from the 20th century;
+                    display was, and still is, associated with men (Cairns et al. 2010). In many households it is still often considered a special occasion when <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="man_cooking" title="The cooking man">the man of the house cooks</span>. This view was reinforced in cooking advice from the 20th century;
                     men do not cook on a daily basis, but when they do, they cook dishes that best display their talents (Vester, 2015).
                 </p>
                 <p>
@@ -47,7 +50,7 @@ p {
                     “A woman’s place is in the home, and as long she’s in the home, she might as well be in the kitchen. Women do alright when they have all the modern conveniences, but us men are better at this rugged type of outdoor cooking. Sort of
                     a throwback to cavemen days.” (Leave it to Beaver, 1957). His last remark reinforces the idea that gender roles have an evolutionary development, are part of human nature and should not be questioned.
                     <p>
-                        A brilliant example of the portrayal of women in the kitchen, from a woman’s perspective, is Martha Rosler’s Semiotics of the Kitchen. In this performance piece, set in a typical kitchen, Martha Rosler manipulates kitchen tools with sudden, violent gestures,
+                        A brilliant example of the portrayal of women in the kitchen, from a woman’s perspective, is <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="martha_rosler" title="Martha Rosler">Martha Rosler’s Semiotics of the Kitchen</span>. In this performance piece, set in a typical kitchen, Martha Rosler manipulates kitchen tools with sudden, violent gestures,
                         sometimes even performing useless tasks such as pretending to throw the contents of a spoon over her shoulder. Her piece is meant to express the frustration of women being stuck doing domestic labour, which is taken for granted.
                         It is also a parody of the cooking shows of the time, particularly the one hosted by an always cheerful Julia Child. In her mock culinary show, she is no longer a cheerful performer, but uses the tools that have been assigned to
                         her as an expression of anger and frustration: “when the woman speaks, she names her own oppression” (Rosler, 1975). Her piece shows that gender roles enforced traditionally within the household can be oppressive, especially when
@@ -79,8 +82,10 @@ export default {
         return {
             theory_of_evolution: '<a href="https://www.scientificamerican.com/article/cooking-up-bigger-brains/?redirect=1"> A theory developed by Richard Wrangham, biological anthropologist at Harvard University</a>',
             woman_place: '<a href="https://www.barrypopik.com/index.php/new_york_city/entry/a_womans_place_is_in_the_kitchen/"> The origins of the phrase </a>',
-            leave_it: '<iframe width="560" height="315" src="https://www.youtube.com/embed/MXhlTQJcgbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            mental_load: '<iframe width="560" height="315" src="https://i.guim.co.uk/img/media/e916cc0a952d793c9f82dcd6954afcac63d68c87/0_0_2000_2000/master/2000.png?width=1920&quality=85&auto=format&fit=max&s=a2b1fc7a0500118c9bf17bc660b566b9"></iframe>'
+            leave_it: '<iframe width="200" height="200" src="https://www.youtube.com/embed/MXhlTQJcgbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            mental_load: '<iframe width="560" height="315" src="https://i.guim.co.uk/img/media/e916cc0a952d793c9f82dcd6954afcac63d68c87/0_0_2000_2000/master/2000.png?width=1920&quality=85&auto=format&fit=max&s=a2b1fc7a0500118c9bf17bc660b566b9"></iframe>',
+            martha_rosler: '<img width="300" height="200" src="./static/topics/gender_in_food/images/martha.jpg"></img>',
+            man_cooking: '<iframe src="https://archive.org/embed/Wordtoth1955" width="200" height="2000" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>'
         }
     },
 }

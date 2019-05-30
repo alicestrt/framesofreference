@@ -7,6 +7,8 @@
 p {
     text-align: justify;
     font-size: 18px;
+    color: #212322;
+    font-family: 'Inconsolata', monospace;
 }
 
 </style>
@@ -54,7 +56,7 @@ export default {
     data: function() {
         return {
 
-            post_mom_economy: '<img  width="300" height="200" src="./topics/post-mom_economy/images/post_mom.png"></img>',
+            post_mom_economy: '<img  width="300" height="200" src="/static/topics/post-mom_economy/images/post_mom.png"></img>',
             lot_2046: '<a href="https://www.lot2046.com/">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>'
 
         }

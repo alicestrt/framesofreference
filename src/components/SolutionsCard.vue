@@ -7,6 +7,8 @@
 p {
     text-align: justify;
     font-size: 18px;
+    color: #212322;
+    font-family: 'Inconsolata', monospace;
 }
 
 </style>
