@@ -5,7 +5,7 @@
 
 
    </div>
-  
+
 </template>
 
 <script>
@@ -18,8 +18,5 @@ export default {
 </script>
 
 <style>
-* {
-      border: 0px black solid;
-    }
 
 </style>

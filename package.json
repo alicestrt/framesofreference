@@ -17,13 +17,15 @@
     "i": "^0.3.6",
     "npm": "^6.9.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.6"
+    "vue-router": "^3.0.6",
+    "webpack": "^4.32.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
     "babel-eslint": "^10.0.1",
+    "copy-webpack-plugin": "^5.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.5.21"

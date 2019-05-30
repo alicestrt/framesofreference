@@ -2,11 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-* {
-    border: 1px black solid;
-
-
-}
 
 b-card {
   border: 0px;
@@ -107,15 +102,15 @@ b-card {
 
     <b-row align-h="center" class="icon_dropdown">
         <b-col cols="2" class="text-center">
-            <b-dropdown id="dropdown-1" dropright variant="light" @click="onClick" no-caret>
+            <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="stroopwafel" size="3x" /></span>
-                <b-card title="Replacing cooking" style="width: 120%; height: 120%;">
-                    <b-card-text class="card-text">
-                        Meal replacements aim to replace food with food-like substances, removing the need to cook. But what do people have against cooking in the first place?
-                    </b-card-text>
+                <b-dropdown-text style="width: 240px;">
+                    Meal replacements aim to replace food with food-like substances, removing the need to cook.
+                    But what do people have against cooking in the first place?
 
-                    <b-dropdown-item-button v-on:click="resetShowCookingCard(showCookingCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item-button>
-                </b-card>
+                </b-dropdown-text>
+                <b-dropdown-divider></b-dropdown-divider>
+                <b-dropdown-item v-on:click="resetShowCookingCard(showCookingCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
         </b-col>
 

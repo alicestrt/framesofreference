@@ -84,7 +84,7 @@ export default {
             woman_place: '<a href="https://www.barrypopik.com/index.php/new_york_city/entry/a_womans_place_is_in_the_kitchen/"> The origins of the phrase </a>',
             leave_it: '<iframe width="200" height="200" src="https://www.youtube.com/embed/MXhlTQJcgbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             mental_load: '<iframe width="560" height="315" src="https://i.guim.co.uk/img/media/e916cc0a952d793c9f82dcd6954afcac63d68c87/0_0_2000_2000/master/2000.png?width=1920&quality=85&auto=format&fit=max&s=a2b1fc7a0500118c9bf17bc660b566b9"></iframe>',
-            martha_rosler: '<img width="300" height="200" src="./static/topics/gender_in_food/images/martha.jpg"></img>',
+            martha_rosler: '<img width="300" height="200" src="./media/topics/gender_in_food/images/martha.jpg"></img>',
             man_cooking: '<iframe src="https://archive.org/embed/Wordtoth1955" width="200" height="2000" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>'
         }
     },
