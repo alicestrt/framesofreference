@@ -19,6 +19,8 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
+              <p style="text-align: center; font-weight: bold;">Becoming robots, losing our tastebuds</p>
+
                 <p>
                     Within the mainstream technology field, there is a current trend towards enhancing brain and physical capacities through consumer products. More specifically, disconnecting the weakness of the body from the sharpness of the mind can be identified in trends
                     such as, genomics, the quantified self and biohacking. These are also a result of the frustration of not being able to change some aspects of life, such as the need to eat, rest, and the inevitability of death. Within the small circles

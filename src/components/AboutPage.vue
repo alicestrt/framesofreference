@@ -44,7 +44,7 @@ p {
       <b-col cols="8">
         <h3>About the video</h3>
         <p class="about-text">
-"Is It Time to Eat, or Is there No More Time to Eat" is a video essay that complements my research on meal replacements. As opposed to a broader look on the topic, the video essay focuses on the issue of solving problems through the means of techno-solutionism. It's built in the form of a vlog which responds to and exists in the same space as the sea of reviews, unpacking and tasting videos that exist around meal replacements.
+"Is It Time to Eat, Or Is There No More Time to Eat" is a video essay that complements my research on meal replacements. As opposed to a broader look on the topic, the video essay focuses on the issue of solving problems through the means of techno-solutionism. It's built in the form of a vlog which responds to and exists in the same space as the sea of reviews, unboxing and tasting videos that exist within the culture of meal replacements.
         </p>
       </b-col>
     </b-row>

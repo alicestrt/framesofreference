@@ -19,6 +19,8 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
+              <p style="text-align: center; font-weight: bold;">Techno-solutionism and the rise of meal replacements</p>
+
                 <p>The way we eat and think of food today is bound to change. The increasing demand for food, especially meat and dairy, combined with the damaging effects of climate change on agriculture (Cho, 2018), has the potential to push the food industry
                     in new directions, and consumers to reconsider their choices. Within this context, technology companies, the new actors on the food industry stage, are putting forward a solution which regards food as being archaic and inefficient,
                     and the practices around food preparation as time- wasters. Their solution, materialized in products dubbed as ‘complete foods’ or ‘meal replacements’, which allegedly contain all the essential nutrients for the human body, is backed

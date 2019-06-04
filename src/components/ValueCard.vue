@@ -19,6 +19,8 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
+              <p style="text-align: center; font-weight: bold;">Nutrients > Food</p>
+
                 <p>
                     Technology startups did not invent meal replacements, nor fortified foods. These products came on the market for various historical reasons, most importantly to deal with nutrient deficiencies. However, companies producing meal replacements frame these
                     products as ways to disrupt mealtimes. As expressed by Huel’s community manager, “We wanted to strip it back to what the actual purpose of food is to provide nutrition (. . . ) People are very focused on taste now – does it taste good?

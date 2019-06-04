@@ -2,14 +2,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 
 h3 {
     margin-top: 40px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     font-weight: bold;
     text-align: center;
+    color: #212322;
 }
 
 p {
@@ -19,6 +21,7 @@ p {
 #introduction {
     margin-top: 20px;
     font-family: 'Inconsolata', monospace;
+    color: #212322;
 }
 
 #short-review {
@@ -35,12 +38,21 @@ p {
 
 #icon-text {
     font-family: 'Open Sans', sans-serif;
+    color: #212322;
 }
 
 #why {
   font-size: 20px;
   font-weight: bold;
   text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: #212322;
+}
+
+#read_full {
+  font-family: 'Open Sans', sans-serif;
+  color: #212322;
 }
 
 </style>
@@ -48,14 +60,14 @@ p {
 <template>
 
 <div>
-    <b-row align-h="center">
+    <b-row align-h="center" style="background-image: linear-gradient(#D3D3D3, white);">
         <b-col cols="4">
             <h3>A critical resource for the meal-replacement curious</h3>
         </b-col>
     </b-row>
     <!--end header -->
 
-    <b-row class="row justify-content-center" style="border-bottom: 1px solid #D3D3D3;">
+    <b-row align-h="center" style="border-bottom: 1px solid #D3D3D3;">
         <b-col cols="10" id="introduction">
             <p>
 
@@ -116,8 +128,8 @@ p {
     </b-row>
     <!-- end second row of icons-->
 
-    <b-row class="row justify-content-between mt-5" style="border-top: 1px solid #D3D3D3;">
-        <b-col id="review_end">
+    <b-row align-h="center" style="border-top: 1px solid #D3D3D3;">
+        <b-col cols="2" id="review_end">
             <p style="text-align: right;">
                 Alice says:
                 <font-awesome-icon icon="star" />
@@ -128,7 +140,7 @@ p {
                 <font-awesome-icon icon="user-check" style="color: green" />
             </p>
         </b-col>
-        <b-col class="col-md-8">
+        <b-col cols="8">
             <p id='review-title' style="font-weight: bold;">
                 I have so many thoughts!
             </p>
@@ -136,7 +148,7 @@ p {
                 “I tried meal replacements, got sucked into the culture, and I’ve come out with many thoughts. First of all...”
             </p>
         </b-col>
-        <b-col class="col-md-2">
+        <b-col cols="1" id="read_full">
             <b-button variant="light">
                 <router-link to='/review'>Read full review</router-link>
             </b-button>

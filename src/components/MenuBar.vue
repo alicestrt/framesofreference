@@ -6,7 +6,7 @@
         <b-button variant="light"><router-link to='/review' class='routerlink'>Review</router-link></b-button>
   <!--      <b-button variant="light"><router-link to='/glossary' class='routerlink'>Glossary</router-link></b-button> -->
         <b-button variant="light"><router-link to='/fulltext' class='routerlink'>Full text</router-link></b-button>
-        <b-button variant="light"><router-link to='/video' class='routerlink'>Full video</router-link></b-button>
+        <b-button variant="light"><router-link to='/video' class='routerlink'>Video</router-link></b-button>
     </b-col>
 </b-row>
 </template>

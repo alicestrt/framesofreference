@@ -19,6 +19,8 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
+              <p style="text-align: center; font-weight: bold;">The value of time in the post-mom economy</p>
+
                 <p>
                     The contemporary field of technology has created a world that suits its workers perfectly. A well-paid position in IT allows one to move from mom’s home, which also means moving away from all the benefits that come with living under her roof. But the
                     solution to all the extra work on their shoulders, which they are often unprepared or unwilling to do, can be easily fixed. Mother, in this situation, can be replaced with software tools - services performed via applications by gig

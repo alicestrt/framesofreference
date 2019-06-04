@@ -3,7 +3,7 @@
   <MenuBar/>
 
 <h3>Your Body Will Make Itself Heard</h3>
-<p>Download the full text of my thesis.</p>
+<p><a href="#">Download</a> the full text of my thesis.</p>
 </div>
 </template>
 
@@ -23,11 +23,14 @@ export default {
         margin-top: 40px;
       }
 p {
-        text-align: justify;
-      }
-#introduction{
-        margin-top: 30px;
+        text-align: center;
 
+      }
+h3 {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
 }
 
 </style>
