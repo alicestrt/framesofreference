@@ -9,6 +9,8 @@ p {
     font-size: 18px;
     color: #212322;
     font-family: 'Inconsolata', monospace;
+    background-color: #f0f0f0;
+
 }
 
 </style>

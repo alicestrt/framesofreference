@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 b-card {
     border: 0px;
 }
@@ -24,11 +25,12 @@ b-card {
     font-size: 16px;
     color: #212322;
     font-family: 'Inconsolata', monospace;
+
 }
 
 .review_block {
     border-bottom: 1px solid #D3D3D3;
-    box-shadow: -1px 4px 8px -2px gray;
+
 }
 
 .icon_dropdown {
@@ -60,10 +62,11 @@ b-card {
 #intro_title {
     font-weight: bold;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     color: #212322;
     font-family: 'Open Sans', sans-serif;
 }
+
 
 </style>
 
@@ -81,10 +84,10 @@ b-card {
                 <p id="intro_title">THE REVIEW</p>
                 <div class="intro_text">
                     <p>
-                        ... this goes beyond a default review. Rather than discussing the physical characteristics of one product or another, my analysis focuses on the broader context in which these products have developed, highlights the patterns of techno-solutionism that I've identified as problematic, and deconstructs their benefit claims and potential for becoming increasingly relevant in today's Western societies. At the same time, having experienced such a diet myself, it also represents a situated look at what replacing food entails.
+                        ... this goes beyond a default review. Rather than discussing the physical characteristics of one product or another, my analysis focuses on the broader context in which these products have developed, highlights the patterns of techno-solutionism I've identified as problematic, and deconstructs their benefit claims and potential for becoming increasingly relevant in today's Western societies. At the same time, having experienced such a diet myself, it also represents a situated look at what replacing food entails.
                     </p>
                     <p>
-                        I've become interested in meal replacements because the concept of rejecting food as inefficient, and replacing it with an ultra-processed powder, however many nutrients it contained, intrigued me. The idea was alienating, so far removed
+                        I've become interested in meal replacements because the concept of rejecting food as inefficient, and replacing it with an ultra-processed powder, intrigued me. The idea was alienating, so far removed
                         from my values and desires, so I had to look deeper. I ended up writing an essay, following the historical path and cultural patterns that led to the growth of a culture, an ideology, a community around the act of diminishing the importance of one
                         of the most basic human habits. In addition to the text, I translated my research into a video essay, which focuses on the techno-solutionist aspects of meal replacements: the problems they claim to address, and the solutions they put forward.
                     </p>
@@ -94,6 +97,12 @@ b-card {
                     </p>
                 </div>
             </b-col>
+
+        </b-row>
+        <b-row align-h="center">
+  <!--        <b-col cols="6" class="text-center">
+            <iframe src="https://giphy.com/embed/Jpq4T77gjhcLytGjvk" width="240" height="120" frameBorder="0" allowFullScreen></iframe>
+          </b-col> -->
         </b-row>
       </b-container>
     </div>

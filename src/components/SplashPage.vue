@@ -7,7 +7,7 @@
 
 h3 {
     margin-top: 40px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     font-weight: bold;
     text-align: center;
@@ -37,7 +37,7 @@ p {
 }
 
 #icon-text {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Inconsolata', monospace;
     color: #212322;
 }
 
@@ -46,7 +46,8 @@ p {
   font-weight: bold;
   text-align: center;
   margin-bottom: 20px;
-  font-family: 'Roboto', sans-serif;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
   color: #212322;
 }
 
@@ -55,18 +56,22 @@ p {
   color: #212322;
 }
 
+.router-link {
+  text-decoration: none;
+  color: black;
+}
+
 </style>
 
 <template>
 
 <div>
-    <b-row align-h="center" style="background-image: linear-gradient(#D3D3D3, white);">
+    <b-row align-h="center">
         <b-col cols="4">
             <h3>A critical resource for the meal-replacement curious</h3>
         </b-col>
     </b-row>
     <!--end header -->
-
     <b-row align-h="center" style="border-bottom: 1px solid #D3D3D3;">
         <b-col cols="10" id="introduction">
             <p>
@@ -83,6 +88,7 @@ p {
             </p>
         </b-col>
     </b-row>
+
     <!--end introduction -->
 <b-row align-h="center">
   <b-col cols="3" id="why">

@@ -31,9 +31,9 @@ h3 {
             <h3>Is it time to eat, or is there no more time to eat</h3>
         </b-col>
     </b-row>
-    <b-row>
-        <b-col>
-          Video iframe
+    <b-row align-h="center">
+        <b-col cols="6" text-center>
+          <iframe width="860" height="515" src="https://www.youtube.com/embed/xzhw2rbroig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </b-col>
     </b-row>
 </div>

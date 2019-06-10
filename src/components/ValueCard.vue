@@ -9,6 +9,8 @@ p {
     font-size: 18px;
     color: #212322;
     font-family: 'Inconsolata', monospace;
+    background-color: #f0f0f0;
+
 }
 
 </style>
@@ -23,7 +25,7 @@ p {
 
                 <p>
                     Technology startups did not invent meal replacements, nor fortified foods. These products came on the market for various historical reasons, most importantly to deal with nutrient deficiencies. However, companies producing meal replacements frame these
-                    products as ways to disrupt mealtimes. As expressed by Huel’s community manager, “We wanted to strip it back to what the actual purpose of food is to provide nutrition (. . . ) People are very focused on taste now – does it taste good?
+                    products as ways to disrupt mealtimes. As expressed by Huel’s community manager, “We wanted to strip it back to what the <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="purpose_timetoeat" title="What's the purpose of food?">actual purpose of food</span> is to provide nutrition (. . . ) People are very focused on taste now – does it taste good?
                     That is not the primary purpose of food”(Turk, 2018). Nutritionism and the food industry in general have, for decades, capitalized on people’s fears and confusion related to food. They created the problem, and then promoted a product
                     to allegedly solve it.
                 </p>
@@ -77,7 +79,8 @@ export default {
         return {
 
             post_mom_economy: '<iframe src="https://imgur.com/i1w6ztH"></iframe>',
-            lot_2046: '<a href="https://www.lot2046.com/">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>'
+            lot_2046: '<a href="https://www.lot2046.com/">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
+            purpose_timetoeat: '<img  width="300" height="200" src="/media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
 
         }
     },

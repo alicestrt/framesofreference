@@ -25,14 +25,14 @@ export default {
     border-bottom: 1px solid #D3D3D3;
     font-size: 18px;
     margin-bottom: 40px;
-    box-shadow: 0.5px 0.5px 10px grey;
-    font-family: 'Open Sans', sans-serif;
-    text-decoration: none;
-    color: #D3D3D3;
+    box-shadow: 0px 0.5px 8px #D3D3D3;
 }
 .routerlink {
   display: block;
   color: #212322;
   font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+
 }
 </style>
