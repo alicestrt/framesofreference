@@ -30,7 +30,7 @@ p {
                 </p>
                 <p>
                     Women have been pushed towards domestic work ever since the evolution from more equal hunter-gatherer societies to settled agricultural societies <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="women_opression" title="Engels and the Origin of Women's Oppression">(Smith, 1997)</span>. Traditionally, men provided the food, earned at first by hunting, and later on through their
-                    paid job. Women would be in charge of preparing food for everyone, and that role rarely changed. Throughout time, cooking as a means of caregiving became a practice identified more with women, while cooking for entertainment or skill
+                    paid job. Women would be in charge of preparing food for everyone, and that role rarely changed. Throughout time, cooking as a means of caregiving became a practice identified more with women, while <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="performance_timetoeat" title="Cooking performance">cooking for entertainment </span> or skill
                     display was, and still is, associated with men (Cairns et al. 2010). In many households it is still often considered a special occasion when <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="man_cooking"
                     title="The cooking man">the man of the house cooks</span>. This view was reinforced in cooking advice from the 20th century; men do not cook on a daily basis, but <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="dad"
                     title="When dad cooks">when they do</span>, they cook dishes that best display their talents (Vester,
@@ -38,17 +38,17 @@ p {
                 </p>
                 <p>
                     Discussing the gender politics of cooking, Pollan wonders: “Was home cooking denigrated because the work was mostly done by women, or did women get stuck doing most of the cooking because our culture denigrated the work?” (Pollan, 2014). Men often had
-                    a privileged position when it comes to their cooking practice - mostly with meat, outdoors, seen as entertainment, while women’s cooking happened behind closed kitchen doors. Today, most of the <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="male_chefs"
-                    title="Google results for best chefs in the world">world-renowned chefs</span>, the ones who win
+                    a privileged position when it comes to their cooking practice - mostly with meat, outdoors, seen as entertainment, while women’s cooking happened behind closed kitchen doors. Today, most of the world-renowned <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="male_chefs"
+                    title="Google results for best chefs in the world"> chefs</span>, the ones who win
                     countless awards and get their own TV shows are men.
                 </p>
                 <p>
                     However, the more time we spend watching chefs cook meals we’ll never get to eat, the less time we spend cooking for ourselves. In the past decades, studies have shown that cooking time has declined (Pollan, 2014; <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="home_cooking"
                     title="The Slow Death of the Home Cooked Meal">Ferdman, 2015</span>). <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="cooking_timetoeat"
-                    title="Cooking is not for everyone">Less cooking</span> in the average
+                    title="Cooking is not for everyone" left>Less cooking</span> in the average
                     household means, one the one side, less housework reserved for women. It also means that corporations make great profits from providing the food we eat on a daily basis, which comes with several downfalls. Food made by a corporation
                     has many more chemical ingredients, that people very rarely use in their kitchens (Pollan, 2014). Eating packaged foods has increased the distance between what raw ingredients are and where they come from, and the food we actually
-                    consume. “Food becomes just another commodity, an abstraction. And as soon as that happens we become easy prey for <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="soylent_quote" title="A quote from Soylent">corporations selling synthetic versions</span> of the real thing - what I call edible foodlike substances.”(Pollan, 2014).
+                    consume. “Food becomes just another commodity, an abstraction. And as soon as that happens we become easy prey for <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="soylent_quote" title="A quote from Soylent" left>corporations selling synthetic versions</span> of the real thing - what I call edible foodlike substances.”(Pollan, 2014).
                 </p>
                 <p>
                     The phrase <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="woman_place" title="A woman's place">a woman’s place is in the kitchen</span>, or the home, has been traced back as far as Ancient Greece’s Aeschylus.
@@ -101,14 +101,16 @@ export default {
             women_opression: '<a href="https://www.isreview.org/issues/02/engles_family.shtml" target="_blank"> "The rise of class society brought with it rising inequality–between the rulers and the ruled, and between men and women"</a>',
             julia_show: '<iframe width="250" height="200" src="https://www.youtube.com/embed/hWi3NwDrQok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             jetsons: '<img width="300" height="200" src="./media/topics/cooking/images/jetsons.gif"></img>',
-            male_chefs: '<img width="300" height="200" src="./media/topics/gender_in_food/images/chefs.png"></img>',
+            male_chefs: '<img width="600" height="300" src="./media/topics/gender_in_food/images/chefs.gif"></img>',
             cooked: '<a href="https://en.wikipedia.org/wiki/Cooked:_A_Natural_History_of_Transformation" target="_blank"> Michael Pollan writes a manifesto for cooking in his 2014 book</a>',
             dad: '<iframe width="100%" height="265" src="https://clyp.it/vc1zjuvo/widget" frameborder="0"></iframe>',
             home_cooking: '<a href="https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/?noredirect=on&utm_term=.3da4866e460d" target="_blank">"Less than 60 percent of suppers served at home were actually cooked at home last year. Only 30 years ago, the percentage was closer to 75 percent."</a>',
             brain: '<a href="https://www.scientificamerican.com/article/cooking-up-bigger-brains/?redirect=1" target="_blank"> "Our hominid ancestors could never have eaten enough raw food to support our large, calorie-hungry brains, Richard Wrangham claims. The secret to our evolution, he says, is cooking" </a>',
-            taskrabbit: '<img width="300" height="200" src="./media/topics/post-mom_economy/images/taskrabbit.png"></img>',
+            taskrabbit: '<img width="500" height="200" src="./media/topics/post-mom_economy/images/task.png"></img>',
             cooking_timetoeat: '<iframe width="250" height="200" src="./media/topics/cooking/video/cooking.mp4"></iframe>',
-            soylent_quote: '<img width="300" height="200" src="./media/topics/meal_replacement_brands/quotes/soylent2.png"></img>',
+            soylent_quote: '<img width="600" height="300" src="./media/topics/meal_replacement_brands/quotes/soylent2.png"></img>',
+            performance_timetoeat: '<iframe width="250" height="200" src="./media/topics/gender_in_food/video/making_huel.mp4"></iframe>',
+
         }
     },
 }

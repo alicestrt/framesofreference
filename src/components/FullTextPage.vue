@@ -16,6 +16,11 @@ h3 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
 }
+iframe {
+  position: absolute;
+  width: 800px;
+  height: 900px;
+}
 
 </style>
 
@@ -34,8 +39,8 @@ h3 {
         </b-col>
     </b-row>
     <b-row align-h="center">
-      <b-col cols="6">
-    <iframe width="400" height="600" src="media/topics/thesis_final_low_res.pdf"></iframe>
+      <b-col cols="8">
+    <iframe style="left: 145px; right: 145px;" src="./media/thesis.pdf"></iframe>
   </b-col>
   </b-row>
 </div>
