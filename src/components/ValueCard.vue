@@ -80,7 +80,7 @@ export default {
 
             post_mom_economy: '<iframe src="https://imgur.com/i1w6ztH"></iframe>',
             lot_2046: '<a href="https://www.lot2046.com/">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
-            purpose_timetoeat: '<img  width="300" height="200" src="/media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
+            purpose_timetoeat: '<img width="300" height="200" src="./media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
 
         }
     },

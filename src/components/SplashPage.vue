@@ -49,6 +49,8 @@ p {
   margin-top: 20px;
   font-family: 'Open Sans', sans-serif;
   color: #212322;
+
+
 }
 
 #read_full {
@@ -56,24 +58,52 @@ p {
   color: #212322;
 }
 
+#subtitle {
+  background-color: #212322;
+  color: white;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+#review_title {
+  font-family: 'Open sans', sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+
 .router-link {
   text-decoration: none;
   color: black;
 }
+
+.signs {
+  margin-bottom: 20px;
+}
+
+
 
 </style>
 
 <template>
 
 <div>
+
     <b-row align-h="center">
-        <b-col cols="4">
-            <h3>A critical resource for the meal-replacement curious</h3>
+        <b-col cols="12" id="subtitle">
+            <p style="text-align: center;">A critical resource for the meal-replacement curious</p>
         </b-col>
     </b-row>
     <!--end header -->
-    <b-row align-h="center" style="border-bottom: 1px solid #D3D3D3;">
-        <b-col cols="10" id="introduction">
+    <b-row align-h="center">
+      <b-col cols="4">
+        <h2 id='review_title'>A REVIEW</h2>
+      </b-col>
+    </b-row>
+    <b-row align-h="center" style="border-bottom: 2px solid #D3D3D3;">
+        <b-col cols="6" id="introduction">
             <p>
 
                 Throughout this past year, I’ve become fascinated with meal replacements. From their surprising form and aspiration to replace normal food, to the entire growing culture and community base around them, I’ve delved deep into the rabbit hole. I have now
@@ -90,6 +120,7 @@ p {
     </b-row>
 
     <!--end introduction -->
+    <div class='signs'>
 <b-row align-h="center">
   <b-col cols="3" id="why">
   Why meal replacements?
@@ -115,10 +146,11 @@ p {
             </p>
         </b-col>
     </b-row>
+  </div>
     <!-- end first row of icons-->
 
 
-    <b-row align-h="center">
+    <b-row align-h="center" class="signs">
         <b-col cols="2" style="text-align:center;">
             <font-awesome-icon icon="search-dollar" size="4x" />
             <p id="icon-text" style="text-align:center;">
@@ -134,7 +166,7 @@ p {
     </b-row>
     <!-- end second row of icons-->
 
-    <b-row align-h="center" style="border-top: 1px solid #D3D3D3;">
+    <b-row align-h="center" style="border-top: 2px solid #D3D3D3 margin-top: 10px; ">
         <b-col cols="2" id="review_end">
             <p style="text-align: right;">
                 Alice says:
@@ -155,8 +187,8 @@ p {
             </p>
         </b-col>
         <b-col cols="1" id="read_full">
-            <b-button variant="light">
-                <router-link to='/review'>Read full review</router-link>
+            <b-button variant="light" to='/review'>
+              Read full review
             </b-button>
 
 

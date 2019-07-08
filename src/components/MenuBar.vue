@@ -1,12 +1,12 @@
 <template>
 <b-row class="mb-5-menu">
     <b-col md="8">
-      <b-button variant="light"><router-link to='/' class='routerlink'>Home</router-link></b-button>
-        <b-button variant="light"><router-link to='/about' class='routerlink'>About</router-link></b-button>
-        <b-button variant="light"><router-link to='/review' class='routerlink'>Review</router-link></b-button>
-  <!--      <b-button variant="light"><router-link to='/glossary' class='routerlink'>Glossary</router-link></b-button> -->
-        <b-button variant="light"><router-link to='/fulltext' class='routerlink'>Full text</router-link></b-button>
-        <b-button variant="light"><router-link to='/video' class='routerlink'>Video</router-link></b-button>
+      <b-button variant="light" to='/'>Home</b-button>
+        <b-button variant="light" to='/about'>About</b-button>
+        <b-button variant="light" to='/review'>Review</b-button>
+
+<b-button variant="light" to='/fulltext'>Full text</b-button>
+        <b-button variant="light" to='/video'>Video</b-button>
     </b-col>
 </b-row>
 </template>

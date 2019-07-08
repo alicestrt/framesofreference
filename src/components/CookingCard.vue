@@ -107,9 +107,9 @@ export default {
             home_cooking: '<a href="https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/?noredirect=on&utm_term=.3da4866e460d" target="_blank">"Less than 60 percent of suppers served at home were actually cooked at home last year. Only 30 years ago, the percentage was closer to 75 percent."</a>',
             brain: '<a href="https://www.scientificamerican.com/article/cooking-up-bigger-brains/?redirect=1" target="_blank"> "Our hominid ancestors could never have eaten enough raw food to support our large, calorie-hungry brains, Richard Wrangham claims. The secret to our evolution, he says, is cooking" </a>',
             taskrabbit: '<img width="500" height="200" src="./media/topics/post-mom_economy/images/task.png"></img>',
-            cooking_timetoeat: '<iframe width="250" height="200" src="./media/topics/cooking/video/cooking.mp4"></iframe>',
+            cooking_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/cooking/video/cooking.mp4"></video>',
             soylent_quote: '<img width="600" height="300" src="./media/topics/meal_replacement_brands/quotes/soylent2.png"></img>',
-            performance_timetoeat: '<iframe width="250" height="200" src="./media/topics/gender_in_food/video/making_huel.mp4"></iframe>',
+            performance_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/gender_in_food/video/making_huel.mp4"></video>',
 
         }
     },
