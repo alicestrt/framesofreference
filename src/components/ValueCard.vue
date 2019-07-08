@@ -25,7 +25,7 @@ p {
 
                 <p>
                     Technology startups did not invent meal replacements, nor fortified foods. These products came on the market for various historical reasons, most importantly to deal with nutrient deficiencies. However, companies producing meal replacements frame these
-                    products as ways to disrupt mealtimes. As expressed by Huel’s community manager, “We wanted to strip it back to what the <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="purpose_timetoeat" title="What's the purpose of food?">actual purpose of food</span> is to provide nutrition (. . . ) People are very focused on taste now – does it taste good?
+                    products as ways to disrupt mealtimes. As expressed by Huel’s community manager, “We wanted to strip it back to what the <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="purpose_timetoeat" title="What's the purpose of food?">actual purpose of food</span> is to provide nutrition (. . .) People are very focused on taste now – does it taste good?
                     That is not the primary purpose of food”(Turk, 2018). Nutritionism and the food industry in general have, for decades, capitalized on people’s fears and confusion related to food. They created the problem, and then promoted a product
                     to allegedly solve it.
                 </p>
@@ -47,14 +47,14 @@ p {
                     target young professionals who can’t find the time, or desire, to prepare and consume a traditional meal throughout the day, a situation many can relate to. By consuming a shake for breakfast and lunch, one does not have to sacrifice
                     time, or nutritional value, in order to be able to keep working. The companies producing these products, largely startups owned by technology entrepreneurs, promote them as solutions to a large variety of problems: lack of time, inconvenience
                     of cooking, food voids, which is all the times one doesn’t have direct access to a meal when hungry, world hunger, climate change, etc. </p>
-                <p>In my research, I followed the development of the brand Soylent, the first one of its kind. The product was developed in Silicon Valley by a couple of computer scientists. They were all young white males with no cooking experience, who
-                    were surviving on frozen fast food, and were frustrated by the quality of their meals and the time it took away from their day (Widdicombe, 2014). Taking the approach of an engineer in a social vacuum, they came to the conclusion that
+                <p>In my research, I followed the development of the brand <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="soylent" title="The one that started it all">Soylent</span>, the first one of its kind. The product was developed in Silicon Valley by a couple of computer scientists. They were all young white males with no cooking experience, who
+                    were surviving on <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="frozen_food" title="The lifestyle that led to the development of Soylent">frozen fast food</span>, and were frustrated by the quality of their meals and the time it took away from their day (Widdicombe, 2014). Taking the approach of an engineer in a social vacuum, they came to the conclusion that
                     traditional nutrition is inefficient. The best way to go about this, according to them, is by reducing food to its most basic elements. This comes across as the ultimate life hack, as it allows them to further release themselves from
                     their bodily needs and exist purely for the purpose of being efficient in their search for profit. In this way, food preparation and consumption necessary on a daily basis is reduced to a minimum, and food is reinterpreted purely as
                     fuel for the body. </p>
                 <p>
                     After Soylent’s astonishing success, and due to the fact that it didn’t meet international food regulation standards for shipping, many similar products appeared on the international market. Meal replacement brands are often promoted similarly to software
-                    or hardware, rather than food. They have different iterations, such as Soylent 1.0, 1.1, and so on, prominent lot numbers, and improvements are described as “fixing bugs” (Widdicombe, 2014). Fram- ing them as such pushes them further
+                    or hardware, rather than food. They have different iterations, such as Soylent 1.0, 1.1, and so on, prominent lot numbers, and improvements are described as “fixing bugs” <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="end_of_food" title="The End of Food">(Widdicombe, 2014)</span>. Framing them as such pushes them further
                     away from traditional food products, and further abstracts the role of food in our life. </p>
                 <p>
                     The rise of meal replacements came not from a desire to improve food, but to disrupt the food industry and make the kind of profits a small technology startup can nowadays. The products are a techno-solutionist representation of the Silicon Valley culture,
@@ -79,8 +79,11 @@ export default {
         return {
 
             post_mom_economy: '<iframe src="https://imgur.com/i1w6ztH"></iframe>',
-            lot_2046: '<a href="https://www.lot2046.com/">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
+            lot_2046: '<a href="https://www.lot2046.com/" target="_blank">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
             purpose_timetoeat: '<img width="300" height="200" src="./media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
+            soylent: '<a href="https://soylent.com/" target="_blank">We thought about your food so you wouldn&#39;t have to.</a>',
+            end_of_food: '<a href="https://www.newyorker.com/magazine/2014/05/12/the-end-of-food" target="_blank"> For weeks, he and his acolytes emitted clouds of sulfurous gas. “I cleared out a jazz theatre once,” he recalled, nostalgically.</a>',
+            frozen_food: '<a href="https://www.newyorker.com/magazine/2014/05/12/the-end-of-food" target="_blank">They had been living mostly on ramen, corn dogs, and Costco frozen quesadillas—supplemented by Vitamin C tablets, to stave off scurvy—but the grocery bills were still adding up. Rob Rhinehart, one of the entrepreneurs, began to resent the fact that he had to eat at all.</a>'
 
         }
     },
