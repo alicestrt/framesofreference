@@ -80,7 +80,7 @@ b-card {
       <b-container fluid>
         <b-row align-h="center" class="mb-2">
 
-            <b-col cols="10" md-10 justify-text-center>
+            <b-col cols="10">
                 <p id="intro_title">THE REVIEW</p>
                 <div class="intro_text">
                     <p>
@@ -109,7 +109,7 @@ b-card {
     <!-- End of description-->
 
     <b-row align-h="center" class="icon_dropdown">
-        <b-col cols="2" class="text-center">
+        <b-col md="2" sm="12" class="text-center">
             <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="stroopwafel" size="3x" /></span>
                 <b-dropdown-text style="width: 240px;">
@@ -121,7 +121,7 @@ b-card {
             </b-dropdown>
         </b-col>
 
-        <b-col cols="2" class="text-center">
+        <b-col md="2" sm="12" class="text-center">
             <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="stopwatch" size="3x" /></span>
                 <b-dropdown-text style="width: 240px;">
@@ -133,7 +133,7 @@ b-card {
 
             </b-dropdown>
         </b-col>
-        <b-col cols="2" class="text-center">
+        <b-col md="2" sm="12" class="text-center">
             <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="code" size="3x" /></span>
                 <b-dropdown-text style="width: 240px;">
@@ -147,7 +147,7 @@ b-card {
             </b-dropdown>
 
         </b-col>
-        <b-col cols="2" class="text-center">
+        <b-col md="2" sm="12" class="text-center">
             <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="search-dollar" size="3x" /></span>
                 <b-dropdown-text style="width: 240px;">
@@ -158,7 +158,7 @@ b-card {
                     <b-dropdown-item v-on:click="resetShowValueCard(showValueCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
         </b-col>
-        <b-col cols="2" class="text-center">
+        <b-col md="2" sm="12" class="text-center">
             <b-dropdown dropup variant="light" @click="onClick" no-caret class="m-2">
                 <span slot="text"> <font-awesome-icon icon="seedling" size="3x" /></span>
                 <b-dropdown-text style="width: 240px;">
@@ -175,7 +175,7 @@ b-card {
     </b-row>
 <b-container fluid>
     <b-row align-h="center">
-        <b-col cols="8" class="main-cards">
+        <b-col cols="12" class="main-cards">
             <transition name="fade">
                 <div v-if="showCookingCard">
                     <CookingCard/>

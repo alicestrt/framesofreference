@@ -60,7 +60,7 @@ export default {
     data: function() {
         return {
 
-            post_mom_economy: '<img  width="300" height="200" src="/media/topics/post-mom_economy/images/post_mom.png"></img>',
+            post_mom_economy: '<img class="img-fluid" src="/media/topics/post-mom_economy/images/post_mom.png"></img>',
             lot_2046: '<a href="https://www.lot2046.com/" target="_blank">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
             washio: '<a href="http://www.thewashio.com/" target="_blank">"We know that your busy schedule will not allow you to do laundry at home, so let us takecare of your laundry - you can take care of what matter most to you"</a>',
             delivery: '<iframe width="250" height="200" src="https://www.youtube.com/embed/2I0fxeeI1sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',

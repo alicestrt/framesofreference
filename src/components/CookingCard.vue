@@ -18,7 +18,7 @@ p {
 
 <div>
     <b-row align-h="center">
-        <b-col cols="10">
+        <b-col cols="12">
             <div class="card_content">
                 <p style="text-align: center; font-weight: bold;">We love food, we hate having to cook it</p>
                 <p>

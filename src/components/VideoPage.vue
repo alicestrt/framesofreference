@@ -27,13 +27,18 @@ h3 {
 <div>
     <MenuBar/>
     <b-row align-h="center">
-        <b-col cols="4">
+        <b-col cols="10">
             <h3>Is it time to eat, or is there no more time to eat?</h3>
         </b-col>
     </b-row>
     <b-row align-h="center">
-        <b-col cols="6" text-center>
-          <iframe width="860" height="515" src="https://www.youtube.com/embed/S-maUIUAC3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <b-col cols="10">
+          <b-embed
+             type="iframe"
+             aspect="16by9"
+             src="https://www.youtube.com/embed/S-maUIUAC3I"
+             allowfullscreen
+           ></b-embed>
         </b-col>
     </b-row>
 </div>

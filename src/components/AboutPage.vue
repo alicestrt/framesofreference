@@ -23,9 +23,8 @@ p {
 <div>
     <MenuBar/>
     <b-row class="about-text" align-h="center">
-        <b-col cols="8">
-            <h3>
-    About the project</h3>
+        <b-col cols="10">
+            <h3>About the project</h3>
             <p class="about-text">
                 I'm Alice. This website is part of my graduation project for the Master of Arts in Fine Art and Design: Experimental Publishing, in which I question the role of technology in the development of innovative food. More specifically, I'm deconstructing what
                 I've identified as the meal-replacement phenomenon, an ideology, culture, community and, ultimately, range of products that have emerged out of Silicon Valley's techno-solutionism approach to problem solving in the past 5 years, and have
@@ -43,7 +42,7 @@ p {
     </b-row>
 
     <b-row align-h="center">
-        <b-col cols="8">
+        <b-col cols="10">
             <h3>About the essay</h3>
             <p class="about-text">
                 "Your Body Will Make Itself Heard" represents my masters' thesis, and takes a broader look at the historical, cultural and technological development of meal replacements.
@@ -52,7 +51,7 @@ p {
     </b-row>
 
     <b-row class="about-text" align-h="center">
-        <b-col cols="8">
+        <b-col cols="10">
             <h3>About the video</h3>
             <p class="about-text">
                 "Is It Time to Eat, Or Is There No More Time to Eat" is a short desktop film that complements my research on meal replacements. As opposed to a broader look on the topic, the video focuses on the issue of solving problems through the means of techno-solutionism.

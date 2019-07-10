@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 #header {
     margin-top: 40px;
 }
@@ -16,11 +17,6 @@ h3 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
 }
-iframe {
-  position: absolute;
-  width: 800px;
-  height: 900px;
-}
 
 </style>
 
@@ -29,19 +25,24 @@ iframe {
 <div>
     <MenuBar/>
     <b-row align-h="center">
-        <b-col cols="6">
+        <b-col md="6" sm="12">
             <h3>Your Body Will Make Itself Heard</h3>
         </b-col>
     </b-row>
     <b-row align-h="center">
-        <b-col cols="6">
+        <b-col cols="10">
             <p><a href="https://git.xpub.nl/alicestrt/Thesis" target="_blank">Download</a> the full text of my thesis.</p>
         </b-col>
     </b-row>
     <b-row align-h="center">
-      <b-col cols="8">
-    <iframe style="left: 145px; right: 145px;" src="./media/thesis.pdf"></iframe>
-  </b-col>
+      <b-col cols="12">
+        <b-embed
+          type="iframe"
+          aspect="4by3"
+          src="./media/thesis.pdf"
+          allowfullscreen
+        ></b-embed>
+      </b-col>
   </b-row>
 </div>
 

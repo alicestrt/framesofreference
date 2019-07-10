@@ -1,13 +1,17 @@
 <template>
 <b-row class="mb-5-menu">
-    <b-col md="8">
-      <b-button variant="light" to='/'>Home</b-button>
-        <b-button variant="light" to='/about'>About</b-button>
-        <b-button variant="light" to='/review'>Review</b-button>
-
-<b-button variant="light" to='/fulltext'>Full text</b-button>
-        <b-button variant="light" to='/video'>Video</b-button>
-    </b-col>
+   <b-navbar toggleable="lg">
+     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+     <b-collapse id="nav-collapse" is-nav>
+       <b-navbar-nav>
+          <b-nav-item to='/'>Home</b-nav-item>
+          <b-nav-item to='/about'>About</b-nav-item>
+          <b-nav-item to='/review'>Review</b-nav-item>
+          <b-nav-item to='/fulltext'>Full text</b-nav-item>
+          <b-nav-item to='/video'>Video</b-nav-item>
+        </b-navbar-nav>
+      </b-collapse>
+   </b-navbar>
 </b-row>
 </template>
 
