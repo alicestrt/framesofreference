@@ -18,9 +18,9 @@ p {
 
 <div>
     <b-row align-h="center">
-        <b-col cols="12">
+        <b-col cols="10">
             <div class="card_content">
-                <p style="text-align: center; font-weight: bold;">We love food, we hate having to cook it</p>
+                <a name="cooking_title"><p style="text-align: center; font-weight: bold;">We love food, we hate having to cook it</p></a>
                 <p>
                     There is a <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="theory_of_evolution" title="Theory of evolution ">theory of evolution</span> that says the following: the development of the Homo Sapiens brain happened
                     mainly due to the discovery of fire, and subsequently cooking. By using less energy to hunt, and spending less time chewing raw food, the <span style='border-bottom: 2px black dashed;' v-b-popover.click.html="brain" title="Cooking Up Bigger Brains">human brain</span> had increasingly more space and time to develop new activities, ponder upon its surroundings
@@ -93,23 +93,23 @@ export default {
         return {
             theory_of_evolution: '<a href="https://www.scientificamerican.com/article/cooking-up-bigger-brains/?redirect=1" target="_blank"> A theory developed by Richard Wrangham, biological anthropologist at Harvard University</a>',
             woman_place: '<a href="https://www.barrypopik.com/index.php/new_york_city/entry/a_womans_place_is_in_the_kitchen/" target="_blank"> The origins of the phrase </a>',
-            leave_it: '<iframe width="250" height="200" src="https://www.youtube.com/embed/MXhlTQJcgbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            mental_load: '<iframe width="250" height="200" src="https://i.guim.co.uk/img/media/e916cc0a952d793c9f82dcd6954afcac63d68c87/0_0_2000_2000/master/2000.png?width=1920&quality=85&auto=format&fit=max&s=a2b1fc7a0500118c9bf17bc660b566b9"></iframe>',
-            martha_rosler: '<img width="300" height="200" src="./media/topics/gender_in_food/images/martha.jpg"></img>',
-            man_cooking: '<iframe width="250" height="200" src="https://archive.org/embed/Wordtoth1955" width="200" height="2000" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>',
-            semiotics: '<iframe width="250" height="200" src="https://www.youtube.com/embed/ZuZympOIGC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            leave_it: '<iframe class="img-fluid" src="https://www.youtube.com/embed/MXhlTQJcgbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            mental_load: '<iframe class="img-fluid" src="https://i.guim.co.uk/img/media/e916cc0a952d793c9f82dcd6954afcac63d68c87/0_0_2000_2000/master/2000.png?width=1920&quality=85&auto=format&fit=max&s=a2b1fc7a0500118c9bf17bc660b566b9"></iframe>',
+            martha_rosler: '<img class="img-fluid" src="./media/topics/gender_in_food/images/martha.jpg"></img>',
+            man_cooking: '<iframe class="img-fluid" src="https://archive.org/embed/Wordtoth1955" width="200" height="2000" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>',
+            semiotics: '<iframe class="img-fluid" src="https://www.youtube.com/embed/ZuZympOIGC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             women_opression: '<a href="https://www.isreview.org/issues/02/engles_family.shtml" target="_blank"> "The rise of class society brought with it rising inequality–between the rulers and the ruled, and between men and women"</a>',
-            julia_show: '<iframe width="250" height="200" src="https://www.youtube.com/embed/hWi3NwDrQok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            jetsons: '<img width="300" height="200" src="./media/topics/cooking/images/jetsons.gif"></img>',
-            male_chefs: '<img width="600" height="300" src="./media/topics/gender_in_food/images/chefs.gif"></img>',
+            julia_show: '<iframe class="img-fluid" src="https://www.youtube.com/embed/hWi3NwDrQok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            jetsons: '<img class="img-fluid" src="./media/topics/cooking/images/jetsons.gif"></img>',
+            male_chefs: '<img class="img-fluid" src="./media/topics/gender_in_food/images/chefs.gif"></img>',
             cooked: '<a href="https://en.wikipedia.org/wiki/Cooked:_A_Natural_History_of_Transformation" target="_blank"> Michael Pollan writes a manifesto for cooking in his 2014 book</a>',
-            dad: '<iframe width="100%" height="265" src="https://clyp.it/vc1zjuvo/widget" frameborder="0"></iframe>',
+            dad: '<iframe class="img-fluid" src="https://clyp.it/vc1zjuvo/widget" frameborder="0"></iframe>',
             home_cooking: '<a href="https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/?noredirect=on&utm_term=.3da4866e460d" target="_blank">"Less than 60 percent of suppers served at home were actually cooked at home last year. Only 30 years ago, the percentage was closer to 75 percent."</a>',
             brain: '<a href="https://www.scientificamerican.com/article/cooking-up-bigger-brains/?redirect=1" target="_blank"> "Our hominid ancestors could never have eaten enough raw food to support our large, calorie-hungry brains, Richard Wrangham claims. The secret to our evolution, he says, is cooking" </a>',
-            taskrabbit: '<img width="500" height="200" src="./media/topics/post-mom_economy/images/task.png"></img>',
-            cooking_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/cooking/video/cooking.mp4"></video>',
-            soylent_quote: '<img width="600" height="300" src="./media/topics/meal_replacement_brands/quotes/soylent2.png"></img>',
-            performance_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/gender_in_food/video/making_huel.mp4"></video>',
+            taskrabbit: '<img class="img-fluid" src="./media/topics/post-mom_economy/images/task.png"></img>',
+            cooking_timetoeat: '<video class="img-fluid" controls autoplay src="./media/topics/cooking/video/cooking.mp4"></video>',
+            soylent_quote: '<img class="img-fluid" src="./media/topics/meal_replacement_brands/quotes/soylent2.png"></img>',
+            performance_timetoeat: '<video class="img-fluid" controls autoplay src="./media/topics/gender_in_food/video/making_huel.mp4"></video>',
 
         }
     },

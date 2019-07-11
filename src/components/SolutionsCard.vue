@@ -21,7 +21,7 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
-              <p style="text-align: center; font-weight: bold;">Techno-solutionism and the rise of meal replacements</p>
+              <a name="solutions_title"><p style="text-align: center; font-weight: bold;">Techno-solutionism and the rise of meal replacements</p></a>
 
                 <p>The way we eat and think of food today is bound to change. The increasing demand for food, especially meat and dairy, combined with the damaging effects of climate change on agriculture (Cho, 2018), has the potential to push the food industry
                     in new directions, and consumers to reconsider their choices. Within this context, technology companies, the new actors on the food industry stage, are putting forward a solution which regards food as being archaic and inefficient,
@@ -61,14 +61,14 @@ export default {
     data: function() {
         return {
 
-            techno_solutionism: '<iframe width="250" height="200" src="https://www.youtube.com/embed/fOvaNzIxz54?start=26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            techno_solutionism: '<iframe class="img-fluid" src="https://www.youtube.com/embed/fOvaNzIxz54?start=26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             lot_2046: '<a href="https://www.lot2046.com/" target="_blank">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
-            solution_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/meal_replacement_products/video/end_of_day_cut.mp4"></video>',
-            humans_timetoeat: '<video width="250" height="200" controls autoplay src="./media/topics/personal_experience/video/humans.mp4"></video>',
-            comment: '<img width="800" height="600" src="./media/topics/personal_experience/communities/images/doorstep.png"></img>',
-            how_its_made: '<iframe width="560" height="315" src="https://www.youtube.com/embed/NpK63Auk1_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            solution_timetoeat: '<video class="img-fluid" controls autoplay src="./media/topics/meal_replacement_products/video/end_of_day_cut.mp4"></video>',
+            humans_timetoeat: '<video class="img-fluid" controls autoplay src="./media/topics/personal_experience/video/humans.mp4"></video>',
+            comment: '<img class="img-fluid" src="./media/topics/personal_experience/communities/images/doorstep.png"></img>',
+            how_its_made: '<iframe class="img-fluid" src="https://www.youtube.com/embed/NpK63Auk1_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             funding: '<a href="https://techcrunch.com/2017/05/04/despite-setbacks-soylent-drinks-up-50-million-in-fresh-funding/"></a>',
-            benefits: '<img src="./media/topics/meal_replacement_brands/images/icons/huel.png"></img>',
+            benefits: '<img class="img-fluid" src="./media/topics/meal_replacement_brands/images/icons/huel.png"></img>',
 
         }
     },

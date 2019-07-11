@@ -21,7 +21,7 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
-              <p style="text-align: center; font-weight: bold;">Becoming robots, losing our tastebuds</p>
+              <a name="future_title"><p style="text-align: center; font-weight: bold;">Becoming robots, losing our tastebuds</p></a>
 
                 <p>
                     Within the mainstream technology field, there is a current trend towards enhancing brain and physical capacities through consumer products. More specifically, disconnecting the weakness of the body from the sharpness of the mind can be identified in trends
@@ -57,8 +57,8 @@ export default {
         return {
 
 
-            kurzweil: '<iframe width="250" height="200" src="https://www.youtube.com/embed/ntY01qoIdus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            brains: '<iframe width="250" height="200" src="https://www.youtube.com/embed/zDj5Drh5ZIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            kurzweil: '<iframe class="img-fluid" src="https://www.youtube.com/embed/ntY01qoIdus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            brains: '<iframe class="img-fluid" src="https://www.youtube.com/embed/zDj5Drh5ZIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
             white_men: '<a href="https://splinternews.com/life-extension-technology-gives-us-a-bleak-future-more-1793857274" target="_blank">Life extension technology gives us a bleak future: more white men</a>',
         }
     },

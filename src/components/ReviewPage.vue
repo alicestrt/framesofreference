@@ -117,7 +117,7 @@ b-card {
 
                 </b-dropdown-text>
                 <b-dropdown-divider></b-dropdown-divider>
-                <b-dropdown-item v-on:click="resetShowCookingCard(showCookingCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
+                <b-dropdown-item v-on:click="resetShowCookingCard(showCookingCard)" href="#cooking_title" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
         </b-col>
 
@@ -129,7 +129,7 @@ b-card {
                     When you have no time to eat throughout the day, you have to reconsider your priorities. Sometimes, that means eating your meals in liquid form.
                 </b-dropdown-text>
                 <b-dropdown-divider></b-dropdown-divider>
-                <b-dropdown-item v-on:click="resetShowTimeCard(showTimeCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
+                <b-dropdown-item v-on:click="resetShowTimeCard(showTimeCard)" href="#time_title" variant="primary" class="read-button">Keep reading</b-dropdown-item>
 
             </b-dropdown>
         </b-col>
@@ -143,7 +143,7 @@ b-card {
                       <b-dropdown-divider></b-dropdown-divider>
 
 
-                    <b-dropdown-item v-on:click="resetShowSolutionsCard(showSolutionsCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
+                    <b-dropdown-item v-on:click="resetShowSolutionsCard(showSolutionsCard)" href="#solutions_title" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
 
         </b-col>
@@ -155,7 +155,7 @@ b-card {
                       </b-dropdown-text>
                       <b-dropdown-divider></b-dropdown-divider>
 
-                    <b-dropdown-item v-on:click="resetShowValueCard(showValueCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
+                    <b-dropdown-item v-on:click="resetShowValueCard(showValueCard)" href="#value_title" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
         </b-col>
         <b-col md="2" sm="12" class="text-center">
@@ -167,7 +167,7 @@ b-card {
                       <b-dropdown-divider></b-dropdown-divider>
 
 
-                    <b-dropdown-item v-on:click="resetShowFutureCard(showFutureCard)" href="#" variant="primary" class="read-button">Keep reading</b-dropdown-item>
+                    <b-dropdown-item v-on:click="resetShowFutureCard(showFutureCard)" href="#future_title" variant="primary" class="read-button">Keep reading</b-dropdown-item>
             </b-dropdown>
 
         </b-col>

@@ -4,6 +4,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 #header {
     margin-top: 40px;
+
+}
+
+.header_video {
+    margin-bottom: 40px;
 }
 
 p {
@@ -27,7 +32,7 @@ h3 {
 <div>
     <MenuBar/>
     <b-row align-h="center">
-        <b-col cols="10">
+        <b-col class="header_video" cols="10">
             <h3>Is it time to eat, or is there no more time to eat?</h3>
         </b-col>
     </b-row>

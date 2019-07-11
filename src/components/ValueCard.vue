@@ -21,7 +21,7 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
-              <p style="text-align: center; font-weight: bold;">Nutrients > Food</p>
+              <a name="value_title"><p style="text-align: center; font-weight: bold;">Nutrients > Food</p></a>
 
                 <p>
                     Technology startups did not invent meal replacements, nor fortified foods. These products came on the market for various historical reasons, most importantly to deal with nutrient deficiencies. However, companies producing meal replacements frame these
@@ -78,9 +78,9 @@ export default {
     data: function() {
         return {
 
-            post_mom_economy: '<iframe src="https://imgur.com/i1w6ztH"></iframe>',
+            post_mom_economy: '<iframe class="img-fluid" src="https://imgur.com/i1w6ztH"></iframe>',
             lot_2046: '<a href="https://www.lot2046.com/" target="_blank">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
-            purpose_timetoeat: '<img width="300" height="200" src="./media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
+            purpose_timetoeat: '<img class="img-fluid" src="./media/topics/meal_replacement_products/video/unlike_food.mp4"></img>',
             soylent: '<a href="https://soylent.com/" target="_blank">We thought about your food so you wouldn&#39;t have to.</a>',
             end_of_food: '<a href="https://www.newyorker.com/magazine/2014/05/12/the-end-of-food" target="_blank"> For weeks, he and his acolytes emitted clouds of sulfurous gas. “I cleared out a jazz theatre once,” he recalled, nostalgically.</a>',
             frozen_food: '<a href="https://www.newyorker.com/magazine/2014/05/12/the-end-of-food" target="_blank">They had been living mostly on ramen, corn dogs, and Costco frozen quesadillas—supplemented by Vitamin C tablets, to stave off scurvy—but the grocery bills were still adding up. Rob Rhinehart, one of the entrepreneurs, began to resent the fact that he had to eat at all.</a>'

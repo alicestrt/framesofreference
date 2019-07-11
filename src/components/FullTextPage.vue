@@ -7,6 +7,10 @@
     margin-top: 40px;
 }
 
+.pdf {
+    margin-top: 40px;
+}
+
 p {
     text-align: center;
 }
@@ -35,7 +39,7 @@ h3 {
         </b-col>
     </b-row>
     <b-row align-h="center">
-      <b-col cols="12">
+      <b-col class="pdf" cols="12">
         <b-embed
           type="iframe"
           aspect="4by3"

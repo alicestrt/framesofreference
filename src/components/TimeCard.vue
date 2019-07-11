@@ -21,7 +21,7 @@ p {
     <b-row align-h="center">
         <b-col cols="10">
             <div class="card_content">
-              <p style="text-align: center; font-weight: bold;">The value of time in the post-mom economy</p>
+              <a name="time_title"><p style="text-align: center; font-weight: bold;">The value of time in the post-mom economy</p></a>
 
                 <p>
                     The contemporary field of technology has created a world that suits its workers perfectly. A well-paid position in IT allows one to move from mom’s home, which also means moving away from all the benefits that come with living under her roof. But the
@@ -63,14 +63,14 @@ export default {
             post_mom_economy: '<img class="img-fluid" src="/media/topics/post-mom_economy/images/post_mom.png"></img>',
             lot_2046: '<a href="https://www.lot2046.com/" target="_blank">LOT is a subscription-based service which distributes a basic set of clothing, footwear, essential self-care products, accessories, and media content.</a>',
             washio: '<a href="http://www.thewashio.com/" target="_blank">"We know that your busy schedule will not allow you to do laundry at home, so let us takecare of your laundry - you can take care of what matter most to you"</a>',
-            delivery: '<iframe width="250" height="200" src="https://www.youtube.com/embed/2I0fxeeI1sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            replace: '<img  width="300" height="200" src="/media/topics/post-mom_economy/images/post_mom_jobs.png"></img>',
+            delivery: '<iframe class="img-fluid" src="https://www.youtube.com/embed/2I0fxeeI1sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            replace: '<img  class="img-fluid" src="/media/topics/post-mom_economy/images/post_mom_jobs.png"></img>',
             sleepscore: '<a href="https://www.sleepscore.com/" target="_blank">We’re the sleep company changing the world by changing the way you sleep</a>',
-            hydrocoach: '<iframe width="250" height="200" src="https://www.youtube.com/embed/iFnfkDV_5P4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            startup_timetoeat: '<video width="300" height="200" controls autoplay src="/media/topics/post-mom_economy/video/startup.mp4"></video>',
-            freedom: '<img width="300" height="200" src="/media/topics/meal_replacement_brands/quotes/freedom.png"></img>',
-            living: '<iframe width="560" height="315" src="https://www.youtube.com/embed/2I0fxeeI1sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            chore_timetoeat: '<img width="300" height="200" src="/media/topics/meal_replacement_brands/quotes/rob_quote.png"></img>',
+            hydrocoach: '<iframe class="img-fluid" src="https://www.youtube.com/embed/iFnfkDV_5P4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            startup_timetoeat: '<video class="img-fluid" controls autoplay src="/media/topics/post-mom_economy/video/startup.mp4"></video>',
+            freedom: '<img class="img-fluid" src="/media/topics/meal_replacement_brands/quotes/freedom.png"></img>',
+            living: '<iframe class="img-fluid" src="https://www.youtube.com/embed/2I0fxeeI1sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            chore_timetoeat: '<img class="img-fluid" src="/media/topics/meal_replacement_brands/quotes/rob_quote.png"></img>',
 
 
 
