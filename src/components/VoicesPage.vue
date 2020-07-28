@@ -1,44 +1,105 @@
 <style scoped>
 
-.about-text {
-    font-size: 18px;
-    color: #212322;
-    text-align: justify;
+* {
+border: 1px black solid;
+}
+.bios {
+  padding-top: 50px;
 }
 
-
-
-p {
-    font-family: "Inconsolata", monospace;
+.everyonebio {
+  margin-top: 60px;
 }
-
-a:hover {
-  color: hotpink;
-  text-decoration: none;
-
-}
-
-a {
-  color: gray;
-}
-
 </style>
 
 <template>
 
 <div>
     <MenuBar/>
-    <b-row class="about-text">
-        <b-col md="10">
-          <p>Voices</p>
 
+    <div class="everyonebio">
 
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+        <a href="/RezaNik">  <p>Reza Nik</p> </a>
 
         </b-col>
+          <b-col md="2"> </b-col>
     </b-row>
 
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
 
+          yadda yadda yadda
 
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+    <b-row class="bios">
+    <b-col md="2"> </b-col>
+        <b-col md="8">
+
+          yadda yadda yadda
+
+        </b-col>
+          <b-col md="2"> </b-col>
+    </b-row>
+
+</div>
 
 </div>
 

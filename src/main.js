@@ -19,6 +19,7 @@ Vue.directive('b-popover', VBPopover)
 import SplashPage from './components/SplashPage'
 import AboutPage from './components/AboutPage'
 import VoicesPage from './components/VoicesPage'
+import RezaNik from './components/RezaNik'
 
 Vue.config.productionTip = false
 
@@ -31,6 +32,8 @@ const router = new VueRouter({
     { path: '/', component: SplashPage },
     { path: '/about', component: AboutPage },
     { path: '/voices', component: VoicesPage},
+    { path: '/RezaNik', component: RezaNik},
+
 
 
   ]

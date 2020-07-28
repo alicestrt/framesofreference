@@ -1,46 +1,16 @@
 <style scoped>
 
-@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans&display=swap');
 
 * {
-    border: 0px black solid;
+    border: 1px black solid;
 }
-
-.row_title {
-    font-size: 30px;
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    font-family: "Open Sans", sans-serif;
-    text-align: center;
-    padding-top: 25px;
-    padding-bottom: 10px;
-
-}
-
-.item_title {
-  font-family: "Open Sans", sans-serif;
-  font-size: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+.title {
+  margin-top: 60px;
+  font-family: 'Merriweather', serif;
   text-align: center;
+  font-size: 40px;
 
-}
-#myname {
-  font-size: 30px;
-  font-family: "Open Sans", sans-serif;
-  font-weight: bold;
-}
-
-a:hover {
-  color: hotpink;
-  text-decoration: none;
-
-}
-
-a {
-  color: black;
 }
 
 
@@ -53,10 +23,18 @@ a {
   <MenuBar/>
 <b-container fluid>
 <b-row>
+  <b-col md="4"> 
+  </b-col>
+
   <b-col md="4">
-  <p id='myname'>
-This is a website  </p>
-    </b-col>
+    <p class="title">WELCOME
+    </p>
+
+  </b-col>
+
+  <b-col md="4">
+  </b-col>
+
 </b-row>
 </b-container>
 
