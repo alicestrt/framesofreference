@@ -6,11 +6,7 @@
     text-align: justify;
 }
 
-h3 {
-    font-family: "Open Sans", sans-serif;
-    font-size: 30px;
-    font-weight: bold;
-}
+
 
 p {
     font-family: "Inconsolata", monospace;
