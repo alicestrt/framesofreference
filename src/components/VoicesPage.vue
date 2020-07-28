@@ -6,6 +6,11 @@
     text-align: justify;
 }
 
+h3 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
 
 p {
     font-family: "Inconsolata", monospace;
@@ -29,7 +34,7 @@ a {
     <MenuBar/>
     <b-row class="about-text">
         <b-col md="10">
-          <p>About this website</p>
+          <p>Voices</p>
 
 
 
@@ -47,7 +52,7 @@ a {
 
 import MenuBar from './MenuBar'
 export default {
-    name: 'AboutPage',
+    name: 'VoicesPage',
     components: {
         MenuBar
     }
