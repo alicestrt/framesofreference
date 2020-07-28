@@ -1,9 +1,9 @@
 <template>
-<b-row class="mb-5-menu">
-   <b-navbar fixed=top toggleable="lg">
+<b-row>
+   <b-navbar fixed=top toggleable="md" >
      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
      <b-collapse id="nav-collapse" is-nav>
-       <b-nav align="center">
+       <b-nav class="navbar-center">
           <b-nav-item to='/'>Home</b-nav-item>
           <b-nav-item to='/about'>About</b-nav-item>
           <b-nav-item to='/voices'>Voices</b-nav-item>
@@ -23,6 +23,13 @@ export default {
 </script>
 
 <style scoped>
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+  padding-top: 18px;
+}
 
 a {
 color: blue;
