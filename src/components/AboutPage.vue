@@ -61,7 +61,7 @@ padding-right: 20px;
 
 <p>I will integrate memories and personal photos, for example ask my participants about the first time they remember scanning their thumb print, describe the process and send a picture of their thumb. Ask each participant to draw their route to the grocery store, speak about their first memory on camera etc and send a picture from that time. I believe that this process is a strong research component to developing an artistic work later in the year. Some of my participants have different skill sets, for example one is an AI researcher so I would adapt my questions accordingly to their background.</p>
 
-
+<p>Special thanks to Alice Strete for technical collaboration and the Stimulerings Fonds for suppporting the project.</p>
 
         </b-col>
           <b-col md="3"> </b-col>
