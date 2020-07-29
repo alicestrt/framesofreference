@@ -3,13 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 
-.navbar-center {
-  position: absolute;
-  left: 50%;
-  transform: translatex(-50%);
-  padding-top: 50px;
 
-}
 
 a {
 color: black;
@@ -21,9 +15,8 @@ a:hover {
   color: gray;
 }
 
-.menurectangle {
+.navbar {
   background-color: white;
-  width: 100%;
 }
 
 </style>
@@ -39,10 +32,10 @@ a:hover {
 
 <template>
 <b-row>
-   <b-navbar fixed=top toggleable="sm"  class="menurectangle">
+   <b-navbar fixed=top toggleable="sm" >
      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
      <b-collapse id="nav-collapse" is-nav>
-       <b-nav class="navbar-center">
+       <b-nav class="justify-content-center mx-auto w-100">
           <b-nav-item to='/'>Home</b-nav-item>
           <b-nav-item to='/about'>About</b-nav-item>
           <b-nav-item to='/voices'>Voices</b-nav-item>
