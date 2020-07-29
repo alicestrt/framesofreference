@@ -1,6 +1,45 @@
+<style scoped>
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+  padding-top: 50px;
+
+}
+
+a {
+color: black;
+font-family: 'Playfair Display', serif;
+font-size: 24px;
+}
+
+a:hover {
+  color: gray;
+}
+
+.menurectangle {
+  background-color: white;
+  width: 100%;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
 <template>
 <b-row>
-   <b-navbar fixed=top toggleable="md" >
+   <b-navbar fixed=top toggleable="sm"  class="menurectangle">
      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
      <b-collapse id="nav-collapse" is-nav>
        <b-nav class="navbar-center">
@@ -21,22 +60,3 @@ export default {
 }
 
 </script>
-
-<style scoped>
-
-.navbar-center {
-  position: absolute;
-  left: 50%;
-  transform: translatex(-50%);
-  padding-top: 18px;
-}
-
-a {
-color: blue;
-}
-
-a:hover {
-  color: red;
-}
-
-</style>

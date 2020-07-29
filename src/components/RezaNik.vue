@@ -1,44 +1,72 @@
 <style scoped>
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
+
 * {
-border: 1px black solid;
+border: 0px black solid;
 }
 .title {
-  text-align: center;
-padding-top: 50px;
-color: hotpink;
+  text-align: left;
+padding-top: 100px;
+color: black;
+font-family: 'Playfair Display', serif;
+
+
 }
 .content
 {
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
 padding-top: 40px;
-font-size: 18px;
+font-size: 16px;
 }
+
 
 .metadata {
   font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
 }
 
 .interviewbody {
   text-align: justify;
 }
+
+.photo {
+  width: 80%;
+  padding-top: 150px;
+}
 </style>
+
+
+
+
+
 
 <template>
 
 <div>
     <MenuBar/>
-    <b-row class="title">
-    <b-col md="4"> </b-col>
+
+
+    <b-row>
+        <b-col md="4"> </b-col>
         <b-col md="4">
-          <p>RezaNik</p>
-
-
-
+          <b-img class="photo" center src="media/spiral.png"></b-img>
         </b-col>
-          <b-col md="4"> </b-col>
+        <b-col md="4"> </b-col>
     </b-row>
+
+
+    <b-row class="title">
+      <b-col md="2"> </b-col>
+      <b-col md="8">
+          <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy</p>
+      </b-col>
+      <b-col md="2"> </b-col>
+    </b-row>
+
+
 
     <b-row class="content">
     <b-col md="2"> </b-col>
@@ -61,6 +89,9 @@ Then with the protests around the world for the Black Lives Matter movent, polic
 <p class="interviewbody">I think the underlying issues here are socio-economic, and putting money into the community as opposed to putting money into surveillance.
 </p>
 
+  <p class="metadata">On June 17th 2020 at 7:00 pm Gill Wrote: </p>
+
+  
 
 
 

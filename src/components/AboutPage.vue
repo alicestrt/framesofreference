@@ -1,20 +1,32 @@
 <style scoped>
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
+
 * {
-border: 1px black solid;
+border: 0px black solid;
 }
 .title {
   text-align: center;
-padding-top: 50px;
+padding-top: 100px;
 color: hotpink;
 }
 .content
 {
-font-family: 'Noto Sans', sans-serif;
-padding-top: 40px;
-font-size: 24px;
+font-family: 'Raleway', sans-serif;
+padding-top: 100px;
+font-size: 16px;
+text-align: justify;
+padding-left: 20px;
+padding-right: 20px;
 }
+
+.stimlogo {
+  width: 30%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 </style>
 
 <template>
@@ -24,7 +36,7 @@ font-size: 24px;
     <b-row class="title">
     <b-col md="4"> </b-col>
         <b-col md="4">
-          <p>About this website</p>
+          <p></p>
 
 
 
@@ -33,8 +45,8 @@ font-size: 24px;
     </b-row>
 
     <b-row class="content">
-    <b-col md="2"> </b-col>
-        <b-col md="8">
+    <b-col md="3"> </b-col>
+        <b-col md="6">
           <p>My new plan is to conduct an online interview series on personal experiences with surveillance. The interview series would be posted on its own website set up for the purpose with a feel towards informal conversations rather than the formal question and answer interview process. </p>
 
 
@@ -52,14 +64,24 @@ font-size: 24px;
 
 
         </b-col>
-          <b-col md="2"> </b-col>
+          <b-col md="3"> </b-col>
     </b-row>
 
+    <b-row>
+        <b-col md="2"> </b-col>
+        <b-col md="8">
+          <b-img class="stimlogo" center src="media/stim.jpg"></b-img>
+        </b-col>
+        <b-col md="2"> </b-col>
+    </b-row>
 
 
 </div>
 
 </template>
+
+
+
 
 <script>
 
