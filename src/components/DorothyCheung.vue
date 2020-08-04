@@ -71,7 +71,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.</p>
+          <p>Public conversation, awareness, participation in systems, opting out, everyday tracking, differences between countries they marketing versus realities.</p>
       </b-col>
     </b-row>
 
@@ -79,114 +79,136 @@ padding-bottom: 100px;
 
     <b-row class="content">
         <b-col md="6" offset-md="3">
-    <p class="metadata">On June 4th 2020 at 6:05 pm Gill wrote:</p>
+    <p class="metadata">On June 17th 2020 at 10:00 am  - Gill wrote:</p>
 
-<p class="interviewbody">Lately I've been thinking about a possible dual nature of surveillance.
-On one hand with the development and soon release of a corona-virus track and trace application, that is being marketed as a (positive) technique to control the spread of virus.
-Then with the protests around the world for the Black Lives Matter movent, police and government tracking surveillance measures are heavily being deployed against protestors in public spaces. I’m very curious to know your opinion on all this, as I find (could be projecting here) that a lot of your work has an activist quality to it and both the corona virus and protests, are concentrated on trying to control movements of individuals through public space.
- </p>
+<p class="interviewbody">Ever since the coronavirus, I've started to talk to my family back in Canada more frequently. I've noticed some differences regarding the coronavirus measures and the conversation surrounding surveillance between Canada, and the Netherlands.</p>
+<p class="interviewbody">For example in Canada the social distance they recommend is 2 meters and here in The Netherlands it is 1.5 meters. None of my friends or family has heard of a track and trace app, even though there are plans to implement it nationally soon. In contrast I found in the Netherlands, the discourse surrounding the app was widespread and still debated frequently.</p>
 
-  <p class="metadata">On June 4th 2020 at 7:34 pm Reza wrote: </p>
+<p class="interviewbody">So since you've experienced living in three different countries in the past year, (so many moves!) I was wondering if you notice any difference in how surveillance operates, say in the UK, compared to Hong Kong or the Netherlands, and are these operations part of the public conversation? </p>
 
-<p class="interviewbody">I definitely try to question all forms of control, whether it's the government, the police, the institutions or the architectural associations. I think we have this underlying misconception that without "control", there's chaos. I inherently disagree with this.</p>
+  <p class="metadata">On June 17, 2020 at 10:58 am- Dorothy wrote:</p>
 
-<p class="interviewbody">I like to think of the systems that we need as "scaffolding" as opposed to a "permanent structure" or "superstructure" I've been thinking about this analogy on various forms of my practice.  And I think it applies here. To me surveillance can be effective if it's more flexible, much like scaffolding is.... and it becomes a problem when it is seen as a superstructure which is necessary to hold everything together.</p>
+<p class="interviewbody">I came back to Hong Kong in March when Covid 19 obviously caused the protests to pause for a while and things had been quite quiet during that time. When I landed in Hong Kong I was asked if I prefer a GPS bracelet or to share my location on Whatsapp. I had heavy jetlag (and I queued almost an hour before that) so I just took the share location option, which proved to be quite weird since then.</p>
 
-<p class="interviewbody">I don't think that surveillance is that important, it plays a role, but not as much as we think it does. How many times have houses or stores been robbed when there are cameras everywhere, or alarms, or security guards or police officers around? These forms of surveill-ing the public doesn't work and especially not in the public realm.</p>
+<p class="interviewbody">Of course, I could have left my phone and ran away (but I didn't) and I was supposed to be sharing that location only with the health department. But one morning I got a video call from the health department, they had to see me at my home, of course, also my face. That moment I felt my space was invaded even though it has to more do with Covid 19 (than protests). </p>
 
-<p class="interviewbody">I think the underlying issues here are socio-economic, and putting money into the community as opposed to putting money into surveillance.
+<p class="interviewbody">Sometimes I feel proud of Hong Kongers effort in preventing Covid 19 to spread (as compared to other places), and then angry when I see someone wearing a GPS bracelet eating out. .. I guess the safety measures help us in some ways, but then maybe the fear ultimately has to do with politics.</p>
+
+<p class="interviewbody">A note on the UK, as I was not in London I wasn't aware of the surveillance as much. And the fact that I could use cash most of the time for grocery and travel (as I received my subsidy in form of cash) helps me feel safer than in the Netherlands, where we were all forced/encouraged to use PIN and NS travel card almost all the time.
 </p>
 
-  <p class="metadata">On June 17th 2020 at 7:00 pm Gill Wrote: </p>
+  <p class="metadata">On June 17, 2020 at 11:43 am – Gill Wrote:</p>
 
-<p class="interviewbody">This idea that you raise of the belief that without control there is chaos, it made me think perhaps we have this fear of the unknown, like we’ve been taught through media through government etc, that the decision making or power is out of our hands, that we are not capable and so everything has to be controlled
+<p class="interviewbody">It's interesting you mention the difference between cash and card here; I notice that as well, everything can bewe are used to intense trackinged here in the NetherlandsNL and they are slowly but surely taking away ATM machines to prevent people from withdrawing cash. At the central market in Rotterdam there are only two ATMs I know of in that area, for thousands of market customers using cash to buy their groceries. I think cards are preffered by the (powers that be?) as you can collect patterns of consumption and then market products or services or enact policies based on those patterns. Just another one of the "invisible" ways we are tracked.
 </p>
 
-<p class="interviewbody">I love this concept of scaffolding. Can you elaborate on what you mean? If we think of surveillance as scaffolding, can it be built up or taken down, added, subtracted etc, by anyone?
+<p class="interviewbody">So the choice to share your location on Whatsapp is just similar to the GPS bracelet, but one is a bracelet and one is a phone? Maybe creating the feeling that you have options (a choice between the two) makes it seem like you have a teeny tiny bit of agency or "freedom" in the matter.
 </p>
 
-<p class="interviewbody">I recently read about an app in Taiwan that provides information on masks and where to get them, so you don’t have to que in long lineups. The government released the initial version but the hacker community started to collaborate with the government and updated the app to be more accessible to the visually impaired, etc.  Could this example be in line with the scaffolding concept? Open participatory frameworks rather than closed?
+<p class="interviewbody">When you got the video call, did they want to inform you of new Covid policy changes? or was it like a digital home checkup on your symptoms? I can imagine how it must have felt like an invasion of space, I mean an unexpected call from a complete stranger seeing your face is quite a personal interaction.
 </p>
 
-<p class="interviewbody">I agree completely with your last point, but I think whats happening is a collusion of interests here, the surveillance companies need crime (in a sense) to prove that their product works, and so it becomes a feedback loop.
+<p class="interviewbody">Can you explain more about why you feel angry about someone with a GPS bracelet eating out? Is that because the GPS bracelets are temporary for when you just arrived back into the country?
 </p>
 
-  <p class="metadata">On June 17th 2020 at 7:31 pm Reza wrote </p>
+  <p class="metadata">On June 17, 2020 at 12:08 pm – Dorothy wrote:</p>
 
-<p class="interviewbody">Yes, the fear of the unknown is something, which we've been brainwashed with throughout our lives, through media, films, music and our cultures/traditions.  Funny I was just speaking of this with my parents, the culture of fear which we see has been gaining momentum for the past decade, is dividing people to a degree which is so difficult to watch.
+<p class="interviewbody">I noticed the card and cash thing because the first months in The Netherlands was really difficult without cards (I guess you noticed that as well), even getting a beer at WORM (local bar) requires a working PIN card. And of course, with the protests now in Hong Kong, people try to avoid using the transport card (esp those that are not anonymous). One thing is the MTR (the company that owns the card system), is known to be working with the government. The other thing is they can easily track down a person with the data. Bus or minibus, on the other hand, is a much safer option, as you can simply get away with coins and cash.
 </p>
 
-<p class="interviewbody">I also see this fear not just towards people, which results in prejudice or racism, but also fear of pursuing things we want to pursue.  Fear holds people back so much, that many are willing to live unhappily in defense of fear instead of facing it and living a more fruitful life.
+<p class="interviewbody">Somehow it is hard to get used to coins again (and ending up with a heavy wallet) when being back in Hong Kong after almost 3 years, but I still try. I am glad that there are still options here (unlike The Netherlands)., I can imagine if the same thing (although very unlikely) happens in the Netherlands, it is really hard for one to survive or obtain access to essential services like food or transport without being traced.</p>
+
+
+<p class="interviewbody">When I returned to Hong Kong in March the government required everyone coming in from Europe/US to stay self-quarantine for 14 days. They also put on a system to trace these people. During that period there was an influx of everyone going home, they still had two options; location sharing or GPS bracelet. Later, the government just used GPS bracelets for everyone, although the system was a bit broken, as many people found they couldn't register, or the GPS just didn't work. You can stop sharing your location or take off the bracelet after 14 days.
 </p>
 
-
-<p class="interviewbody">And in terms of scaffolding - it's funny I've been using this term since last year, the first time I wrote about it was in this blog post almost exactly a year ago  https://www.instagram.com/p/BzRqQAvJJrz/. I see the concept of scaffolding as a universal term, which could be applied to many facets of our society.  I generally like to question anything that is "absolute" except maybe math or science (in some cases) but anything in the social sciences and humanities cannot be absolute, things need to be constantly questioned and scrutinized. So the idea of surveillance being a "good" think which will "avoid" crime or the spread of the virus I tend to question. I think we need to think deeper in understanding the roots of the problems.
+<p class="interviewbody">These tracking policies were implemented in a rush somehow, as the no one expected people would return home, as the situation in Europe/US got worse. In fact, somehow it is also a bit like the panopticon idea - you feel you are being watched so you behave.
 </p>
 
-<p class="interviewbody"> The Taiwan example is super interesting and I definitely think that the collective participatory actions are more meaningful and effective and the loosely structured systems need to account for these sorts of actions.  To use an architectural example, it's like Alejandro Aravena's "half house" idea sort of.... that the structure is set up loosely, in order to support individual growth.
+<p class="interviewbody">I don't know who does the checking on Whatsapp or GPS or how frequently they check in. Even when I got video calls I couldn't see who was calling, they put a sticker over their phone camera, so I could only see a blank screen. There were times these check-ins caught me by surprise (especially when I slept in due to jetlag), but there were also times that they weren’t checking in at all (like the time when I forgot to turn on another 8 hours of location sharing).
 </p>
 
-    <p class="metadata">On June 17, 2020 at 7:50 pm- Gill wrote </p>
+<p class="interviewbody">Meanwhile, when people with GPS bracelets who were supposed to be quarentining sneaked out, passers by were often terrified or even took a picture of them. It's quite interesting in a way that other people became part of, or even supported the surveillance system (and of course, I am not saying sneaking out is the right thing to do.)
+</p>
 
-  <p class="interviewbody"> Fear of something can prevent us from action, but once you somehow move through the fear (which is uncomfortable as hell) you usually come out the other side a bit dazed and confused but still alive for the most part. Fear can also be motivating in a way.
+    <p class="metadata">On June 17, 2020 at 12:25 pm - Gill wrote:</p>
+
+  <p class="interviewbody">So just so we are clear, regarding  the MTR transport company working with the Hong Kong government; when you use your transport card, information of your current and past travel patterns are accessed by the government. They then can show up at your location, to arrest or detain you if you are suspected of actively protesting. Correct?
   </p>
 
-  <p class="interviewbody"> Right so in this example of Aravena's “half-house” our scaffolding is a way to set up the primary living conditions, but then you hand over the agency or the decision making to the agent and let that play out how the agent deems best. The question I'm wondering is what is the scaffolding in terms of our concept of surveillance? and could that be useful...
+  <p class="interviewbody">You're the first person I've interviewed that has mentioned the panopticon. I can relate to this feeling. On one hand, I felt a sense of civic duty to behave, to stay inside, but on the other hand, I knew that everyone was watching me, whether I kept my distance, etc, and that completely modified my daily behaviour. Social media has set the stage to casually surveil each other, enabling a vigilantism that I think can be quite dangerous.
   </p>
 
-  <p class="interviewbody"> I'm wondering as an architect, have you ever considered how people are going to be surveilled as they move through the spaces you designed? Do you think anyone who designs buildings or public spaces (especially public spaces) considers this? I know when I was working in architecture I didn't consider surveillance at all. I remember I once spent a full 8-hour day placing cameras on shop drawings for a project as advised by a security company.
+  <p class="interviewbody">Instagram has normalized this and made it fun! (sarcasm). The boundaries are so blurry here, our tools to communicate with our families and friends (whatsapp) are also used for the government to literally call us to check that we are where we are supposed to be.
   </p>
 
-    <p class="metadata"> On June 17, 2020 at 8:06 pm- Reza wrote: </p>
+  <p class="interviewbody">I think we exist in such a dense web of surveillance systems integrated into every day life, the Dutch government already has a vast network of where people are and what they are doing at all times. It really doesn't give you alot of space to move, or any, really.</p>
 
-  <p class="interviewbody"> I agree about fear being motivating too but I think it depends on your willingness to dive into the unknown, which on its own requires some fearlessness. All that to say... I think encouragement and context really define how willing someone is in terms of using fear as a motivator as opposed to something, which paralyzes.
+  <p class="interviewbody">I wonder since you’ve finished your 14-day quarentine do you believe that your sharing location is now permanently turned off? Have Hong Kong officials made any statements about this?</p>
+
+    <p class="metadata">On June 17, 2020 at 12:37 pm - Dorothy wrote:</p>
+
+  <p class="interviewbody">Yes, that’s correct. Things have been changed quite a bit here in Hong Kong, even for myself being born and lived here for so long, I feel I am catching up to new things every day. Some have decided to boycott the MTR, hoping they would force a change in their behaviour, (sadly though, this is very unlikely).
   </p>
 
-  <p class="interviewbody"> I think the concept of scaffolding here in terms of surveillance is more about the community.  Empowering members of the community and the community organizations to promote and encourage values, which benefit the community at large.  Instead of surveilling or policing which instills more fear into people.
+  <p class="interviewbody">Because with what has happened here, the government has been using Covid-19 as an excuse to forbid all sorts of protests (while it is legal to go shopping in shopping malls with tons of strangers) it makes you realize that the nature of these policies is never purely for social health.
   </p>
 
-  <p class="interviewbody"> As an architect, I think the first time I thought about surveillance or the idea of being watched/surveilled was when I was doing my thesis. A part of my project was designing a bridge, which connected the informal settlements to the wealthiest part of the city in Buenos Aires. I remember at the beginning it was just a one-way long bridge and my supervisor said that I should consider various entries and exits to this long bridge for safety reasons. The idea of being watched and having no escape route is quite terrifying.
+  <p class="interviewbody"> The sharing location thing is on my Whatsapp. Of course for ordinary people, it is impossible to know if the government can hack into your private conversations. I guess more of us are now switching to VPN as well, and be very careful on the information we share on the Internet.
   </p>
 
-  <p class="interviewbody"> It's a hard question to answer whether architects think of surveillance in the process or not, but I would say generally no. That's just my cynical side which thinks that majority of architects don't really think too critically and beyond their given "design" problems.
+  <p class="interviewbody"> Somehow, the government here isn't that clever with their policies (or, they just don't have to cover up their act as much as other democratic countries). While in the Netherlands, very often I feel I am living in a system that is marketed as a free, open and democratic one, which is also very dangerous as it might one day catch people off guard.
   </p>
 
-  <p class="interviewbody"> I do think there are others (architects, urban planners, etc) who think about how to create spaces for "easy surveillance" which in turn have created some problematic spaces. For example the initial courtyard designs for Regent Park. I think architects and urban designers have often thought that having "eyes" on the neighbourhood will prevent bad things from happening, but I think it's more about enabling the community to hold each other accountable. So again I would say that providing space for community advocates to protect the community (especially the mothers and the women in communities)
-This is more important than anything any architect or designer can build.
+    <p class="metadata">On June 17, 2020 at 1:08 pm – Gill wrote:</p>
+
+  <p class="interviewbody"> That's interesting what you say about how different countries market themselves, and completely true. I feel more surveilled here in The Netherlands then I did in Canada. A small example: we had a garbage fine here because I left some paper recycling outside the bin that was already full, the paper had our address on it and we got a gigantic bill. I felt naive but also kind of shocked, that going through someone’s garbage is normal practice here.
   </p>
 
-    <p class="metadata">On June 17 2020 at 8:26 Gill wrote: </p>
-
-  <p class="interviewbody"> What if the dialogue about spatial surveillance was part of the design discourse or curriculum, like one of the common problems like natural light, proper ventilation that you had to solve? I’ve been meaning to dive into Jay Pitter’s pdf she provided for urbanists over the weekend, her teaching’s need to be integrated into architect’s curiculums for so many reasons. Perhaps without them we will keep getting Regent Park courtyards. Can you describe what the design situation was for the courtyard?
+  <p class="interviewbody">Do you think it's better to live in a country that's at minium transparent about its surveillance policies? Because then you are aware of what's going on to a certain extent.
   </p>
 
-  <p class="interviewbody"> I think this idea of holding eachother accountable can be explored a bit. On one hand, we could have a panopticon effect, you know you are being watched, so you behave, but on the other hand, I think there needs to be thought on the ways you hold eachother accountable. There are all these surveillance snitch apps like NEXT DOOR where you can anonymusly report your neighbour. In a sense that is a form of accountability, but it takes away from the care and trust that I think is missing (and why we feel we need covid track and trace apps in the first place).
+  <p class="interviewbody">That’s a hard question to answer haha, maybe it's not the right question to ask, I don't know.
   </p>
 
-      <p class="metadata">On June 17, 2020 at 8:52 pm Reza wrote: </p>
+      <p class="metadata">On June 17, 2020 at 1:18 pm Dorothy wrote:</p>
 
-  <p class="interviewbody"> I'm also not an expert on Regent Park but from what I've read, the old design was all inward facing courtyards, which were parking lots, with no views out to the main street. So this created a little safe-zone for people who wanted to sell drugs and do other not-so-great things. The buildings themselves covered the crimes which were happening internally. I don't think they've done a great job with the "revitalization" either. They keep praising it but gentrification isn't really the answer. We don't need more Karens.... and people calling out people for no reason. I think deeply rooted existing community structures need to studied and scrutinized more.
+  <p class="interviewbody"> Haha, the garbage bill - I got warned by my landlord when I first moved in, apparently, it also happened to other people before.
   </p>
 
-      <p class="metadata">On June 17, 2020 at 9:13 pm - Gill wrote: </p>
-
-  <p class="interviewbody"> I think sometimes we have this belief that architecture and design (in this case of the covid apps) or social media can actually solve deep rooted systemic issues. It sometimes feels like slapping a bandaid on a spewing drainpipe. These things are just the back drop to daily life, and although they can enable devastating consequences, they still are a product of deeply held beliefs and biases. I always think back to an example I read about a reserve in Canada (I don’t remember where exactly). The community consistantly had these 911 calls where the ambulance couldn’t get to the paitient in time, because the houses didn’t have house numbers. The ambulence drivers didn’t know or didn’t care enough to learn or couldn’t learn who lived where in these reserve communities. This one little thing like access to a house number that was denied for whatever reason time and time again fails the community.
+  <p class="interviewbody">It is hard to say what is better. I guess most countries have access to personal information one way or the other, so it has more to do with which country is better monitored by the people. In the end, it is about how people can participate in politics at different levels, including digital/internet policies. I think Taiwan is doing quite well in that sense.
   </p>
 
-      <p class="metadata">On June 17, 2020 at 9:25 pm – Reza wrote: </p>
-
-  <p class="interviewbody"> Yeah I agree with these “gadgets” not really helping the deeply rooted issues. It’s like slapping windmills and solar panels on a house and calling it a day in terms of addressing the climate crisis.
+  <p class="interviewbody">I think what is very sad for many communist/totalitarian states, is that people are used to not speaking up even they see something's wrong, and they are rewarded if they inform on someone. This kind of society is very difficult to live in. Again it circles back to the idea of panopticon.
   </p>
 
-  <p class="interviewbody"> I think humans need these tangible things in order to make them feel good about doing something for a larger systemic change. I think both are needed in order to meaningfully change things.  However if the focus is only on one angle (whether it’s more macro or micro), it doesn’t work as effectively in my opinion.
+  <p class="interviewbody"> So, to answer the question, I would choose a society where people are free to talk about these subjects and policies.</p>
+
+      <p class="metadata">On June 17th  at 1:39 pm – Gill wrote:</p>
+
+  <p class="interviewbody">That's a great way of putting it. Can you explain what you mean by participating in politics at different levels? Do you mean online, offline, different levels of government etc?</p>
+
+  <p class="interviewbody">I think the informant society is increasing in The Netherlands, or at least the tools are in place to already implement this informant nature if the government has the desire to do so.</p>
+
+  <p class="interviewbody">Gemeente Rotterdam has an online service where you select your neighbourhood and file complaints and tag it to the map so that an officer can come by and check out the situation. It can be anything from garbage on the street, to a loud domestic dispute. I wonder about the potential this has to alienate people who belong to that neighbourhood to engage in conversation about these issues themselves. Instead these conversations are shuttled off to the government, it takes our power out of our hands really, maybe it's seen as being more convenient but it allow enables me to anonymously report someone and for many that can be really dangerous.</p>
+
+      <p class="metadata"> On June 17, 2020 at 2:27 pm – Dorothy wrote:</p>
+
+  <p class="interviewbody"> I mean online, offline, in community, and policies making process. I admire Taiwan gov and Audrey Tang (esp their reaction to the Covid 19) due to this as well, there is a very open platform for its people to participate (one <a href="https://www.bbc.com/news/technology-52883838">example</a>) As the article mentioned, it has a lot to do with trust. And it is a trust that is based on information and data, not marketing or belief. What I felt a bit strange sometimes in the Netherlands is how the people trust its government, I would be worried about how well NS card knows me, but apparently many people take it for granted.
   </p>
 
-  <p class="interviewbody"> So the issues of surveillance can be and should be addressed with small incremental changes alongside larger and deeper conversations about why we even need it. How can we create a world where we don’t need to really have cameras? Why do people steal? How can we address that while at the same time thinking of short term fixes. It’s like the bodycam for cops, it doesn’t work, and hasnt stopped police brutality. At least in some cases we have evidence of what’s happening. Things won’t change unless we take what we learn from these small changes, and apply them to the larger conversation of why do the police represent? Why do they have so much power? How can we take away some of that power?
+  <p class="interviewbody">In the past (before I lived in The Netherlands ) I thought The Netherlands  is a very open country, esp their attitude towards LGBTQ people. But once I lived there I realised many laws are made to avoid conflict among people, and so people can care less. Maybe for some people, that's the way to go, but for me, there is always a lack of something.
   </p>
 
-  <p class="interviewbody"> So I think it’s necessary to do all we can from all possible angles. There aren’t any linear solutions to creating a more just world. We gotta try every single zigzagy route possible.
-  </p>
+    <p class="metadata">On June 17, 2020 at 2:39 pm – Gill wrote:</p>
+    <p class="interviewbody">" avoiding conflict among people means that people care less"
+It brings to mind those physical demarcated spaces that many countries have made mandatory to protest in, keeping the protestors fenced in like animals so that conflict is avoided. Lack of care, or lack of visibility or confrontation means lack of action...
 
+    </p>
+
+    <p class="metadata">On June 17, 2020 at 3:15 pm – Dorothy wrote:</p>
+
+    <p class="interviewbody">Yes, without care we live animal-like lives - in Hong Kong, we often call those people are "Kong-pig" - people who only care about food, travel or all these material lives. I guess being an artist or designer this is exactly what we don't want - a more classic way to say that, "the unexamined life is not worth living."</p>
         </b-col>
     </b-row>
 

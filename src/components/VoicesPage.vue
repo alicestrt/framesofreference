@@ -185,7 +185,6 @@ a:hover {
     </b-row>
 
     <b-row>
-        <
         <b-col md="2" offset-md="5">
           <b-img class="circle" center src="media/spiral.png"></b-img>
         </b-col>
