@@ -20,6 +20,14 @@ import SplashPage from './components/SplashPage'
 import AboutPage from './components/AboutPage'
 import VoicesPage from './components/VoicesPage'
 import RezaNik from './components/RezaNik'
+import EmmaFagan from './components/EmmaFagan'
+import LukeMurphy from './components/LukeMurphy'
+import DorothyCheung from './components/DorothyCheung'
+import BeaPero from './components/BeaPero'
+import FrancisMay from './components/FrancisMay'
+import Veravanderburg from './components/Veravanderburg'
+import JoannettevanderVeer from './components/JoannettevanderVeer'
+
 
 Vue.config.productionTip = false
 
@@ -33,8 +41,13 @@ const router = new VueRouter({
     { path: '/about', component: AboutPage },
     { path: '/voices', component: VoicesPage},
     { path: '/RezaNik', component: RezaNik},
-
-
+    { path: '/EmmaFagan', component: EmmaFagan},
+    { path: '/LukeMurphy', component: LukeMurphy},
+    { path: '/DorothyCheung', component: DorothyCheung},
+    { path: '/BeaPero', component: BeaPero},
+    { path: '/FrancisMay', component: FrancisMay},
+    { path: '/Veravanderburg', component: Veravanderburg},
+    { path: '/JoannettevanderVeer', component: JoannettevanderVeer},
 
   ]
 

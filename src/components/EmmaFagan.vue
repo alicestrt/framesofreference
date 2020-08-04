@@ -64,7 +64,7 @@ padding-bottom: 100px;
 
     <b-row>
         <b-col md="6" offset-md="3">
-          <p class= "interview_name"> Reza Nik </p>
+          <p class= "interview_name"> Emma Fagan </p>
         </b-col>
     </b-row>
 
@@ -200,7 +200,7 @@ This is more important than anything any architect or designer can build.
 
 import MenuBar from './MenuBar'
 export default {
-    name: 'RezaNik',
+    name: 'EmmaFagan',
     components: {
         MenuBar
     }
