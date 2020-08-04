@@ -71,7 +71,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.</p>
+          <p>Beatriz Pero Gianni on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. CCTV sidewalks, public space, </p>
       </b-col>
     </b-row>
 
@@ -79,112 +79,89 @@ padding-bottom: 100px;
 
     <b-row class="content">
         <b-col md="6" offset-md="3">
-    <p class="metadata">On June 4th 2020 at 6:05 pm Gill wrote:</p>
+    <p class="metadata">On July 4, 2020 at 12:58 pm Gill wrote:</p>
 
-<p class="interviewbody">Lately I've been thinking about a possible dual nature of surveillance.
-On one hand with the development and soon release of a corona-virus track and trace application, that is being marketed as a (positive) technique to control the spread of virus.
-Then with the protests around the world for the Black Lives Matter movent, police and government tracking surveillance measures are heavily being deployed against protestors in public spaces. I’m very curious to know your opinion on all this, as I find (could be projecting here) that a lot of your work has an activist quality to it and both the corona virus and protests, are concentrated on trying to control movements of individuals through public space.
+<p class="interviewbody">I want to talk about your work first (because I think it relates) and then we can get into the situation today with corona track and trace applications. Could you give a short context to what your graduation thesis was about and how/why you felt that CCTV cameras should play a role in the mapping research that you completed?
  </p>
 
-  <p class="metadata">On June 4th 2020 at 7:34 pm Reza wrote: </p>
+  <p class="metadata">On July 4, 2020 at 1:44 pm Bea wrote: </p>
 
-<p class="interviewbody">I definitely try to question all forms of control, whether it's the government, the police, the institutions or the architectural associations. I think we have this underlying misconception that without "control", there's chaos. I inherently disagree with this.</p>
+<p class="interviewbody">In short, my thesis is a complex narrative of emancipation and political justice in Lima, Peru. It explores the sidewalk as a space of Resistance, through the perspective of its non-dominant subjects, here refered to as Maria, whose sidewalk isn't a neutral space. In it, I used a multidisciplinary study and the means of mathematics to give shape to their intangible experiences. The outcome was a new set of spatial measurements that increase understanding and agency, and a network of polychromatic vendors that aim to improve the space through inclusive social control.</p>
 
-<p class="interviewbody">I like to think of the systems that we need as "scaffolding" as opposed to a "permanent structure" or "superstructure" I've been thinking about this analogy on various forms of my practice.  And I think it applies here. To me surveillance can be effective if it's more flexible, much like scaffolding is.... and it becomes a problem when it is seen as a superstructure which is necessary to hold everything together.</p>
+<p class="interviewbody">Regarding CCTV:</p>
 
-<p class="interviewbody">I don't think that surveillance is that important, it plays a role, but not as much as we think it does. How many times have houses or stores been robbed when there are cameras everywhere, or alarms, or security guards or police officers around? These forms of surveill-ing the public doesn't work and especially not in the public realm.</p>
+<p class="interviewbody">I conducted ethnographic research for my thesis and mapped the physical and non-tangible obstacles Maria experiences while on the street. An important one of which was CCTV and the "safe zones" they create on the street, as part of the means of exercising Legal Control over the subject. I explored what the actual purpose of CCTV is if it doesn't make people feel safe and there isn't much public support for them. Mistrust in CCTV is widespread in Miraflores (Lima), as is exemplified by:</p>
 
-<p class="interviewbody">I think the underlying issues here are socio-economic, and putting money into the community as opposed to putting money into surveillance.
+<p class="interviewbody">•	 INEI’s report that 89% of the district’s population feel insecure within the district, despite an ever-increasing number of cameras and the ¨safe zones they create"
 </p>
 
-  <p class="metadata">On June 17th 2020 at 7:00 pm Gill Wrote: </p>
-
-<p class="interviewbody">This idea that you raise of the belief that without control there is chaos, it made me think perhaps we have this fear of the unknown, like we’ve been taught through media through government etc, that the decision making or power is out of our hands, that we are not capable and so everything has to be controlled
+<p class="interviewbody">•	CCTV’s purpose in preventing crime is questioned, as there is minimal evidence of their role to prevent crime or being effective in court as the main evidence.
 </p>
 
-<p class="interviewbody">I love this concept of scaffolding. Can you elaborate on what you mean? If we think of surveillance as scaffolding, can it be built up or taken down, added, subtracted etc, by anyone?
+<p class="interviewbody">•	The disheartening answer that came up was the role CCTV plays is that of controlling the access and movement of non-dominant members and enforcing racial and economic homogeny in the affluent district. Exacerbated by the control rooms being sites of discrimination, where officers define who belongs when and where and target all other types of people as needing to be controlled and disciplined. Also, in many cases the police doesn't even have control over the CCTV cameras, rather municipal officers do, who are called Serenazgo; security guards enforcing municipal rules. The so defined "safe zones" proved that they mainly succeed in making the rest of the street unsafe, which is counterproductive.
 </p>
 
-<p class="interviewbody">I recently read about an app in Taiwan that provides information on masks and where to get them, so you don’t have to que in long lineups. The government released the initial version but the hacker community started to collaborate with the government and updated the app to be more accessible to the visually impaired, etc.  Could this example be in line with the scaffolding concept? Open participatory frameworks rather than closed?
+<p class="interviewbody">•	So CCTV cameras tend to be used not to prevent or discourage crime at all, but to exert control and exclusion over minorities, preserve normality and remove beggars and informal workers (who make up the majority of the Peruvian economy, which brings us into the disaster and chaos created by corona). Many times violently.
 </p>
 
-<p class="interviewbody">I agree completely with your last point, but I think whats happening is a collusion of interests here, the surveillance companies need crime (in a sense) to prove that their product works, and so it becomes a feedback loop.
+  <p class="metadata">On July 4, 2020 at 2:12 pm Gill wrote: </p>
+
+<p class="interviewbody">So if I understand this correctly, you went into the ethnographic research believing that the CCTV created “safe zones” and you began to map them as such. Did your mapping change after that revelation? For example did the cameras come to represent another negative barrier on the street rather than a beacon?
 </p>
 
-  <p class="metadata">On June 17th 2020 at 7:31 pm Reza wrote </p>
-
-<p class="interviewbody">Yes, the fear of the unknown is something, which we've been brainwashed with throughout our lives, through media, films, music and our cultures/traditions.  Funny I was just speaking of this with my parents, the culture of fear which we see has been gaining momentum for the past decade, is dividing people to a degree which is so difficult to watch.
+<p class="interviewbody">Besides the facts and references that you provide, how did you come to the conclusion that people didn’t feel safe with the cameras there? Through your research, did you speak to anyone about their views on cameras in Mirafloras?
 </p>
 
-<p class="interviewbody">I also see this fear not just towards people, which results in prejudice or racism, but also fear of pursuing things we want to pursue.  Fear holds people back so much, that many are willing to live unhappily in defense of fear instead of facing it and living a more fruitful life.
+<p class="interviewbody">So CCTVS are more controlled by the corporations or municpalities whose properties they reside on, rather than the government, or the police. Could it be stated that a CCTV is there to make sure that the dominant subjects remain on the street while the non-dominant, minorities are removed?
+</p>
+
+<p class="interviewbody">Its funny the language that we are sold in order to “accept” things like more CCTV on the streets.
+</p>
+
+<p class="interviewbody">I was listening to a podcast called Citations Needed where they drew a link between the rise of “true crime” shows like CSI, etc etc that portray suburban break-ins to white affluent home owners by non white robbers etc in America and the rise in CCTV cameras, neighbourhood cameras/ watch apps and increasing paranoia about crime. When actually, statistically crime has fallen in the US steadily.
+</p>
+
+<p class="interviewbody">I know it’s unreasonable to compare slightly because it’s a different situation but do you find there is an emphasis on this kind of vigilant protection or paranoia of crime in Lima that fear could justify more CCTV?
+</p>
+
+  <p class="metadata">On July 4, 2020 at 3:08 pm Bea wrote: </p>
+
+<p class="interviewbody">Not exactly, before the research, I didn't think the safe zones worked, because I didn't think they had much of an impact. After the research, I realized how counterproductive they actually are, and how discriminatory the whole system is. Which also speaks to my own privilege into having to do research to realize it.
+</p>
+
+<p class="interviewbody">Yeah, throughout all the women I interviewed I asked them what their thoughts were on CCTV and if they made them feel safer or if they thought that CCTV is useful. Most answers ranged from “they are pointless” to “I don't like to walk under them because they are discriminatory”.  However, some richer older women I interviewed actually liked the CCTV because they kept order and an eye on the street. And when I pressed into what they meant they said that undesirable people were regulated. And when asked what they meant by undesirable they said thieves, vandals, drunks and people from other districts that come to take advantage of the district. They classified non-white and poorer people together with criminals who had to be controlled.
 </p>
 
 
-<p class="interviewbody">And in terms of scaffolding - it's funny I've been using this term since last year, the first time I wrote about it was in this blog post almost exactly a year ago  https://www.instagram.com/p/BzRqQAvJJrz/. I see the concept of scaffolding as a universal term, which could be applied to many facets of our society.  I generally like to question anything that is "absolute" except maybe math or science (in some cases) but anything in the social sciences and humanities cannot be absolute, things need to be constantly questioned and scrutinized. So the idea of surveillance being a "good" think which will "avoid" crime or the spread of the virus I tend to question. I think we need to think deeper in understanding the roots of the problems.
+<p class="interviewbody">CCTV’s are managed by private organizations, municipalities, and police. It just depends on where the camera is placed. For example, sidewalk cameras are managed by the municipalities, but street light cameras are managed by the police, and private organizations and people put cameras in the facades of buildings.
 </p>
 
-<p class="interviewbody"> The Taiwan example is super interesting and I definitely think that the collective participatory actions are more meaningful and effective and the loosely structured systems need to account for these sorts of actions.  To use an architectural example, it's like Alejandro Aravena's "half house" idea sort of.... that the structure is set up loosely, in order to support individual growth.
+<p class="interviewbody"> I would say the purpose of CCTV’S are to remove when possible and otherwise to control and restrict for all who are non-dominant. We don't ask who benefits from the cameras even if we know it isn't us.
 </p>
 
-    <p class="metadata">On June 17, 2020 at 7:50 pm- Gill wrote </p>
+<p class="interviewbody"> Of course, but I think you have the cause and effect wrong. From the research I did, the government, institutions and people in power, tend to have different levels of prejudice or "fear" for otherness (which keeps rising more and more in the current political climate), and installing CCTV, increasing police control or passing discriminatory laws are things that they will do. However they stoke the fear and intolerance in the general public in order to justify increased policing, passing more legal barriers, etc. I am not sure if I am clear, but basically CCTV creates the need for public fear, which then creates more demand for CCTV.
+</p>
 
-  <p class="interviewbody"> Fear of something can prevent us from action, but once you somehow move through the fear (which is uncomfortable as hell) you usually come out the other side a bit dazed and confused but still alive for the most part. Fear can also be motivating in a way.
+    <p class="metadata">On July 4, 2020 at 3:29 pm Gill wrote: </p>
+
+  <p class="interviewbody"> Wow there is such a feedback loop happening here, thank you you made that really clear.
   </p>
 
-  <p class="interviewbody"> Right so in this example of Aravena's “half-house” our scaffolding is a way to set up the primary living conditions, but then you hand over the agency or the decision making to the agent and let that play out how the agent deems best. The question I'm wondering is what is the scaffolding in terms of our concept of surveillance? and could that be useful...
+  <p class="interviewbody"> Now if we can shift to a different kind of surveillnace. The track and trace apps that are being developed around the world. To your knowledge is there anything similar being developed in Peru, and would you ever consider getting the app which is being developed here in NL? My understanding is that in many countries where the app is non mandatory to download very few people are downloading. You need at least a 60% usage rate in order for it to “be effective”. Why do you think so few people want to use this app?
   </p>
 
-  <p class="interviewbody"> I'm wondering as an architect, have you ever considered how people are going to be surveilled as they move through the spaces you designed? Do you think anyone who designs buildings or public spaces (especially public spaces) considers this? I know when I was working in architecture I didn't consider surveillance at all. I remember I once spent a full 8-hour day placing cameras on shop drawings for a project as advised by a security company.
+  <p class="interviewbody"> I’m thinking of your proposed “solution” or intervention  for your project which was to place approachable human scale architecture – infastructure – with a physical human being to “watch over “ the street while their conducted their bussiness of vending. Sometimes I think we are slapping a technological solution onto what is a very human problem. This is a really broad question but do you think a more human solution to these track and trace apps? Like a public health check in person who isn’t your regular GP? Or something else… just speculating here…
   </p>
 
-    <p class="metadata"> On June 17, 2020 at 8:06 pm- Reza wrote: </p>
+    <p class="metadata"> On July 4, 2020 at 4:06 pm Bea wrote: </p>
 
-  <p class="interviewbody"> I agree about fear being motivating too but I think it depends on your willingness to dive into the unknown, which on its own requires some fearlessness. All that to say... I think encouragement and context really define how willing someone is in terms of using fear as a motivator as opposed to something, which paralyzes.
+  <p class="interviewbody"> I supposed freedom is more important than mandatory surveillance and control and the payoff isn't worth it. Now, if this track and trace app is disguised as a game where people didn't know what it was for, everyone would do it.
   </p>
 
-  <p class="interviewbody"> I think the concept of scaffolding here in terms of surveillance is more about the community.  Empowering members of the community and the community organizations to promote and encourage values, which benefit the community at large.  Instead of surveilling or policing which instills more fear into people.
+  <p class="interviewbody"> Yeah, I think we tend to always find a technological solution for every social problem. We take the superficial problems and say, “oh if people are just walking into the train without paying, we will put a barrier”. But that does nothing to solve real problem behind why people can’t pay for their public transport. It is the easy way out that doesn't address the larger issues. Design falls short of this, as it should when it thought of as a solution by itself.
   </p>
 
-  <p class="interviewbody"> As an architect, I think the first time I thought about surveillance or the idea of being watched/surveilled was when I was doing my thesis. A part of my project was designing a bridge, which connected the informal settlements to the wealthiest part of the city in Buenos Aires. I remember at the beginning it was just a one-way long bridge and my supervisor said that I should consider various entries and exits to this long bridge for safety reasons. The idea of being watched and having no escape route is quite terrifying.
-  </p>
-
-  <p class="interviewbody"> It's a hard question to answer whether architects think of surveillance in the process or not, but I would say generally no. That's just my cynical side which thinks that majority of architects don't really think too critically and beyond their given "design" problems.
-  </p>
-
-  <p class="interviewbody"> I do think there are others (architects, urban planners, etc) who think about how to create spaces for "easy surveillance" which in turn have created some problematic spaces. For example the initial courtyard designs for Regent Park. I think architects and urban designers have often thought that having "eyes" on the neighbourhood will prevent bad things from happening, but I think it's more about enabling the community to hold each other accountable. So again I would say that providing space for community advocates to protect the community (especially the mothers and the women in communities)
-This is more important than anything any architect or designer can build.
-  </p>
-
-    <p class="metadata">On June 17 2020 at 8:26 Gill wrote: </p>
-
-  <p class="interviewbody"> What if the dialogue about spatial surveillance was part of the design discourse or curriculum, like one of the common problems like natural light, proper ventilation that you had to solve? I’ve been meaning to dive into Jay Pitter’s pdf she provided for urbanists over the weekend, her teaching’s need to be integrated into architect’s curiculums for so many reasons. Perhaps without them we will keep getting Regent Park courtyards. Can you describe what the design situation was for the courtyard?
-  </p>
-
-  <p class="interviewbody"> I think this idea of holding eachother accountable can be explored a bit. On one hand, we could have a panopticon effect, you know you are being watched, so you behave, but on the other hand, I think there needs to be thought on the ways you hold eachother accountable. There are all these surveillance snitch apps like NEXT DOOR where you can anonymusly report your neighbour. In a sense that is a form of accountability, but it takes away from the care and trust that I think is missing (and why we feel we need covid track and trace apps in the first place).
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 8:52 pm Reza wrote: </p>
-
-  <p class="interviewbody"> I'm also not an expert on Regent Park but from what I've read, the old design was all inward facing courtyards, which were parking lots, with no views out to the main street. So this created a little safe-zone for people who wanted to sell drugs and do other not-so-great things. The buildings themselves covered the crimes which were happening internally. I don't think they've done a great job with the "revitalization" either. They keep praising it but gentrification isn't really the answer. We don't need more Karens.... and people calling out people for no reason. I think deeply rooted existing community structures need to studied and scrutinized more.
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 9:13 pm - Gill wrote: </p>
-
-  <p class="interviewbody"> I think sometimes we have this belief that architecture and design (in this case of the covid apps) or social media can actually solve deep rooted systemic issues. It sometimes feels like slapping a bandaid on a spewing drainpipe. These things are just the back drop to daily life, and although they can enable devastating consequences, they still are a product of deeply held beliefs and biases. I always think back to an example I read about a reserve in Canada (I don’t remember where exactly). The community consistantly had these 911 calls where the ambulance couldn’t get to the paitient in time, because the houses didn’t have house numbers. The ambulence drivers didn’t know or didn’t care enough to learn or couldn’t learn who lived where in these reserve communities. This one little thing like access to a house number that was denied for whatever reason time and time again fails the community.
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 9:25 pm – Reza wrote: </p>
-
-  <p class="interviewbody"> Yeah I agree with these “gadgets” not really helping the deeply rooted issues. It’s like slapping windmills and solar panels on a house and calling it a day in terms of addressing the climate crisis.
-  </p>
-
-  <p class="interviewbody"> I think humans need these tangible things in order to make them feel good about doing something for a larger systemic change. I think both are needed in order to meaningfully change things.  However if the focus is only on one angle (whether it’s more macro or micro), it doesn’t work as effectively in my opinion.
-  </p>
-
-  <p class="interviewbody"> So the issues of surveillance can be and should be addressed with small incremental changes alongside larger and deeper conversations about why we even need it. How can we create a world where we don’t need to really have cameras? Why do people steal? How can we address that while at the same time thinking of short term fixes. It’s like the bodycam for cops, it doesn’t work, and hasnt stopped police brutality. At least in some cases we have evidence of what’s happening. Things won’t change unless we take what we learn from these small changes, and apply them to the larger conversation of why do the police represent? Why do they have so much power? How can we take away some of that power?
-  </p>
-
-  <p class="interviewbody"> So I think it’s necessary to do all we can from all possible angles. There aren’t any linear solutions to creating a more just world. We gotta try every single zigzagy route possible.
+  <p class="interviewbody"> For corona, I don't even know what a solution could be. But I think surveillance shouldn't be the number one solution. Speaking only from the perspective of what is happening in the bigger cities in Peru, you can track whoever you want, make it mandatory to see a doctor and place specialists to do so, make a mandatory quarantine that people are penalized for breaking, etc. But if the economy is still informal, people need to go out and work and interact with others. It is a choice between starving and maybe getting sick. What difference would tracking them make, except even more discrimination and control and fines.
   </p>
 
         </b-col>
