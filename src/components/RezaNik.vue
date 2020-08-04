@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
 
 * {
-border: 0px black solid;
+border: 1px black solid;
 }
 .title {
   text-align: left;
@@ -52,27 +52,22 @@ padding-top: 40px;
 
 
     <b-row>
-        <b-col md="4"> </b-col>
-        <b-col md="4">
+        <b-col md="4" offset-md="4">
           <b-img class="photo" center src="media/spiral.png"></b-img>
         </b-col>
-        <b-col md="4"> </b-col>
     </b-row>
 
 
     <b-row class="title">
-      <b-col md="3"> </b-col>
-      <b-col md="6">
+      <b-col md="6" offset-md="3">
           <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy</p>
       </b-col>
-      <b-col md="3"> </b-col>
     </b-row>
 
 
 
     <b-row class="content">
-    <b-col md="3"> </b-col>
-        <b-col md="6">
+        <b-col md="6" offset-md="3">
     <p class="metadata">On June 4th 2020 at 6:05 pm Gill wrote:</p>
 
 <p class="interviewbody">Lately I've been thinking about a possible dual nature of surveillance.
@@ -182,7 +177,6 @@ This is more important than anything any architect or designer can build.
   </p>
 
         </b-col>
-          <b-col md="3"> </b-col>
     </b-row>
 
 
