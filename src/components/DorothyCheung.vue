@@ -44,6 +44,24 @@ padding-bottom: 100px;
   padding-top: 40px;
 }
 
+.next {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 100px;
+
+}
+
+.next a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.next a:hover {
+  font-weight: bold;
+}
+
 </style>
 
 
@@ -212,6 +230,15 @@ It brings to mind those physical demarcated spaces that many countries have made
         </b-col>
     </b-row>
 
+    <b-row class= "next">
+      <b-col md="1" offset-md="5">
+        <p><a href="/LukeMurphy"><<</a> </p>
+      </b-col>
+
+      <b-col md="1">
+        <p><a href="/JoannettevanderVeer"> >> </a></p>
+      </b-col>
+    </b-row>
 
 
 </div>
