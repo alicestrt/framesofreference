@@ -71,7 +71,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.</p>
+          <p>Luke Murphy on Start ups, media coverage of tech, encryption, hope, alternative structures of technology.</p>
       </b-col>
     </b-row>
 
@@ -79,112 +79,81 @@ padding-bottom: 100px;
 
     <b-row class="content">
         <b-col md="6" offset-md="3">
-    <p class="metadata">On June 4th 2020 at 6:05 pm Gill wrote:</p>
+    <p class="metadata">On July 8, 2020 at 3:00 pm Gill wrote: </p>
 
-<p class="interviewbody">Lately I've been thinking about a possible dual nature of surveillance.
-On one hand with the development and soon release of a corona-virus track and trace application, that is being marketed as a (positive) technique to control the spread of virus.
-Then with the protests around the world for the Black Lives Matter movent, police and government tracking surveillance measures are heavily being deployed against protestors in public spaces. I’m very curious to know your opinion on all this, as I find (could be projecting here) that a lot of your work has an activist quality to it and both the corona virus and protests, are concentrated on trying to control movements of individuals through public space.
+<p class="interviewbody">I wanted to talk to you because I remember that you’ve made some changes regarding how you browse the Internet or use your phone on a daily basis. I’m thinking of different search engines, messaging apps, etc that are known to be “less evil or “severe” with data gathering and tracking capabilities.Can you tell me about some of those changes you’ve made and differences between them and say Gmail, google whatsapp etc, and when you felt you needed to make them and why? Has an awareness of surveillance and privacy changed the way you operate in your professional work as well?
  </p>
 
-  <p class="metadata">On June 4th 2020 at 7:34 pm Reza wrote: </p>
+  <p class="metadata">On July 8, 2020 at 3:34 pm Luke wrote:  </p>
 
-<p class="interviewbody">I definitely try to question all forms of control, whether it's the government, the police, the institutions or the architectural associations. I think we have this underlying misconception that without "control", there's chaos. I inherently disagree with this.</p>
+<p class="interviewbody">Yes, you're right, I have been experimenting a lot with what technology feels right since about 2013 when all that Snowden stuff hit the news. I guess some of my weirder experiments kind of "leaked out" into conversations with friends at some point...you got me! I can't really blame people actually, trying to use privacy respecting technologies  gets a bad doing over in the news...</p>
 
-<p class="interviewbody">I like to think of the systems that we need as "scaffolding" as opposed to a "permanent structure" or "superstructure" I've been thinking about this analogy on various forms of my practice.  And I think it applies here. To me surveillance can be effective if it's more flexible, much like scaffolding is.... and it becomes a problem when it is seen as a superstructure which is necessary to hold everything together.</p>
+<p class="interviewbody">Yeah, the entire reason for starting to try and use more surveillance resistance technologies was because of what is commonly called the Snowden revelations. The exceptionally gnarly leaks that brought out the NSA surveillance programs.</p>
 
-<p class="interviewbody">I don't think that surveillance is that important, it plays a role, but not as much as we think it does. How many times have houses or stores been robbed when there are cameras everywhere, or alarms, or security guards or police officers around? These forms of surveill-ing the public doesn't work and especially not in the public realm.</p>
+<p class="interviewbody">I was using Gmail as my mail provider, so I started to look into another email provider. Google was still considered quite a nice company back then but I see things are changing (Fuck Of Google campaign). Anyway, it was enough for me to make the jump at that time. Back then, that was pretty scary for me even though I work in software. I didn't know if I could trust this other provider and of course, the bar had risen. Do they encrypt my mail at rest? Do they have 2-factor authentication? Do they have a warrant canary? Are the VC funded?  And more! I wasn't asking all those questions to begin with but they pop up now when I have to make a choice on technology.</p>
 
-<p class="interviewbody">I think the underlying issues here are socio-economic, and putting money into the community as opposed to putting money into surveillance.
+<p class="interviewbody">I'm not sure why I felt like I had to make the switch but I guess it has something to do with how much passion I have for technology. It gives me a lot of joy. And the abuse was really just sucking it out. I guess that really hit a nerve at the time. I think I may have also wanted to help people learn more since they would invariably ask me but I quickly realised that most people would not switch until years later. For example, my father finally, in the year of our lord, 2020, switched over from Gmail.
 </p>
 
-  <p class="metadata">On June 17th 2020 at 7:00 pm Gill Wrote: </p>
-
-<p class="interviewbody">This idea that you raise of the belief that without control there is chaos, it made me think perhaps we have this fear of the unknown, like we’ve been taught through media through government etc, that the decision making or power is out of our hands, that we are not capable and so everything has to be controlled
-</p>
-
-<p class="interviewbody">I love this concept of scaffolding. Can you elaborate on what you mean? If we think of surveillance as scaffolding, can it be built up or taken down, added, subtracted etc, by anyone?
-</p>
-
-<p class="interviewbody">I recently read about an app in Taiwan that provides information on masks and where to get them, so you don’t have to que in long lineups. The government released the initial version but the hacker community started to collaborate with the government and updated the app to be more accessible to the visually impaired, etc.  Could this example be in line with the scaffolding concept? Open participatory frameworks rather than closed?
-</p>
-
-<p class="interviewbody">I agree completely with your last point, but I think whats happening is a collusion of interests here, the surveillance companies need crime (in a sense) to prove that their product works, and so it becomes a feedback loop.
-</p>
-
-  <p class="metadata">On June 17th 2020 at 7:31 pm Reza wrote </p>
-
-<p class="interviewbody">Yes, the fear of the unknown is something, which we've been brainwashed with throughout our lives, through media, films, music and our cultures/traditions.  Funny I was just speaking of this with my parents, the culture of fear which we see has been gaining momentum for the past decade, is dividing people to a degree which is so difficult to watch.
-</p>
-
-<p class="interviewbody">I also see this fear not just towards people, which results in prejudice or racism, but also fear of pursuing things we want to pursue.  Fear holds people back so much, that many are willing to live unhappily in defense of fear instead of facing it and living a more fruitful life.
+<p class="interviewbody">This definitely changed how I felt at work. Surveillance was a massive societal issue and nobody gave a fuck at most jobs. I left a few jobs out of disgust. There weren't any unions where I was. I guess this ultimately led me to work in technology cooperatives later on. That also has something to do with how a lot of start-ups work but that story is for another time maybe ;)
 </p>
 
 
-<p class="interviewbody">And in terms of scaffolding - it's funny I've been using this term since last year, the first time I wrote about it was in this blog post almost exactly a year ago  https://www.instagram.com/p/BzRqQAvJJrz/. I see the concept of scaffolding as a universal term, which could be applied to many facets of our society.  I generally like to question anything that is "absolute" except maybe math or science (in some cases) but anything in the social sciences and humanities cannot be absolute, things need to be constantly questioned and scrutinized. So the idea of surveillance being a "good" think which will "avoid" crime or the spread of the virus I tend to question. I think we need to think deeper in understanding the roots of the problems.
+  <p class="metadata">On July 8, 2020 at 4:06 pm Gill wrote  </p>
+
+<p class="interviewbody">Sometimes it feels like there is a large denial factor or indifference when I talk to others about this (I find that within myself sometimes) that comes when facing up to such a massive system as many of these things aren’t visible and difficult to comprehend for many. Or many just say I have nothing to hide, I don’t really care, etc. How do you find the media portrays people or organizations that try and use privacy respecting technologies?
 </p>
 
-<p class="interviewbody"> The Taiwan example is super interesting and I definitely think that the collective participatory actions are more meaningful and effective and the loosely structured systems need to account for these sorts of actions.  To use an architectural example, it's like Alejandro Aravena's "half house" idea sort of.... that the structure is set up loosely, in order to support individual growth.
+<p class="interviewbody">Its interesting that you admit that it was scary for you as someone who has more knowledge than most of this topic, you still needed those services – to function in society hah, but you were willing to do the work to find other providers and like you said if you changed, then maybe you could encourage the people around you to change, like your Dad and “cough.. maybe me who has Gmail cough”.
 </p>
 
-    <p class="metadata">On June 17, 2020 at 7:50 pm- Gill wrote </p>
+<p class="interviewbody">This may be an ignorant question but wasn’t it an enormous amount of work to do this?
+</p>
 
-  <p class="interviewbody"> Fear of something can prevent us from action, but once you somehow move through the fear (which is uncomfortable as hell) you usually come out the other side a bit dazed and confused but still alive for the most part. Fear can also be motivating in a way.
+<p class="interviewbody">I’m am also very curious about what you learnt about the structure of start ups and their link to surveillance software issues. If you’re comfortable could you shed some light on your experiences there? I mean they are kind of the foundational models that give birth to of all these surveillance apps, like Nest home, etc.
+</p>
+
+  <p class="metadata">On July 8, 2020 at 4:31 pm Luke wrote: </p>
+
+<p class="interviewbody">Around 2013 and a year or two after, this was a big topic of debate in my circles but I haven't had to speak to the topic for a while.
+</p>
+
+<p class="interviewbody">Uhhhmmm, so the media situation, yeah, it is complicated. I see a lot of day-to-day crime  reports boil down to "these people are criminals and they used encryption to communicate and that is bad!" I read a story like this just today. It also credited, and I quote, "permanent surveillance" (CCTV) as an aid in catching them. Permanent!
+</p>
+
+
+<p class="interviewbody">However, there are counter-narratives from, say, here in the Netherlands, Bits of Freedom, which promote encryption as requirement for privacy and they get a lot of good coverage. I guess it is wider than the news itself, I mean, wasn't the Australian government pushing a bill to ban encryption recently? And the UK government dropped that Snoopers charter? Governments also drive suspicion and division on this topic.
+</p>
+
+<p class="interviewbody"> The why of this is historical, as far I understand. It's all tied up in that declaration of the independence of cyberspace, cyberpunk, wikileaks, crypto-anarchist, hacker, libertarian, blah blah thing. I guess encryption is just a problem when you want to know what people are saying. But of course, there are ways around it and those are subtle. Metadata and the like.
+</p>
+
+<p class="interviewbody"> For the effort, I guess it was enormous :) Most people just thought I was a kook. Which I guess I am, tin foil hats and so on. (I do have one, as you've seen). It was only later on when it become more of a social issue and not a technical thing, that a lot more critics and activists produced arguments and reasoning that was easier to pick up and have a more accessible conversation. Trust is still an issue and always will be. I do like that more and more friends do come to me recently and ask about companies behind technology. It is getting a little harder to just pick up any software and use it withoutthinking about who made it and for what purpose!
+</p>
+
+<p class="interviewbody"> As for the start-ups, I think I can lay it out pretty easily now. This way of running a business was sold to me in college as totally subversive and revolutionary. It took years to figure out that it was a lie but I guess they got the best out of me by then! Usually, the technology is mostly completely separated from any political issues and wrapped up as "an interesting problem to solve". The last start-up I worked in was writing software for the operation and maintenance of public bicycle fleets but as soon as that was figured out as not profitable, the "pivot" came and were suddenly focused on private fleets. Google was the next customer! No workers had any say in that and we didn't have any organisation to make a collective complaint. I didn't understand that was an option at that time.
+</p>
+
+
+    <p class="metadata">On July 8, 2020 at 4:56 pm Gill wrote: </p>
+
+  <p class="interviewbody"> What about technology brings you so much joy, and with what you know now, are you optimistic? I mean you are still working in it haha. Have your views changed?
   </p>
 
-  <p class="interviewbody"> Right so in this example of Aravena's “half-house” our scaffolding is a way to set up the primary living conditions, but then you hand over the agency or the decision making to the agent and let that play out how the agent deems best. The question I'm wondering is what is the scaffolding in terms of our concept of surveillance? and could that be useful...
+  <p class="interviewbody"> I think this kind of start up mentality is what is propelling the covid track and trace application boom, the idea that technology in a vacum can fight corona, given your experience in software and mentioned above decisions, when governments say that the information will be private, will be deleted afterwords etc, what goes through your head? Any alarm bells or questions you would ask? And do you know of any way (software wise) that this could actually be possible, create a system that would actually protect the users privacy?
   </p>
 
-  <p class="interviewbody"> I'm wondering as an architect, have you ever considered how people are going to be surveilled as they move through the spaces you designed? Do you think anyone who designs buildings or public spaces (especially public spaces) considers this? I know when I was working in architecture I didn't consider surveillance at all. I remember I once spent a full 8-hour day placing cameras on shop drawings for a project as advised by a security company.
+
+    <p class="metadata"> On July 8, 2020 at 5:23 pm Luke wrote: </p>
+
+  <p class="interviewbody"> Yeah great question on optimism. Again, thinking about my Dad, he recently discovered that there actually are alternatives to the surveillance capitalists and once he got a new mail provider, he was basically reborn in his conviction that technology can be good and fun again. I guess he knew but he didn't have the headspace to get into it. And for years, almost 7 years later then me, I think he was really bummed out until then about technology.
   </p>
 
-    <p class="metadata"> On June 17, 2020 at 8:06 pm- Reza wrote: </p>
-
-  <p class="interviewbody"> I agree about fear being motivating too but I think it depends on your willingness to dive into the unknown, which on its own requires some fearlessness. All that to say... I think encouragement and context really define how willing someone is in terms of using fear as a motivator as opposed to something, which paralyzes.
+  <p class="interviewbody"> I guess I was also. I've been playing with computers since I was 14 or something, so I guess my relationship with them is too long to fit in here. Writing computer programs that are useful to other people is still fun. And there are a lot of exciting projects underway which provide ways to experiment with other network topologies and social organising which, do actually bring the command-and-control way of operating into
+question. I'm thinking of the many layers of the Fediverse and peer-to-peer technologies such as the Hypercore protocol lately. We have a lot more options now that we didn't have before. One major recent advance is that people are putting regular GNU/Linux distributions on phones now, so you don't have to just settle for Googles Android. That's a big advance for user freedom.
   </p>
 
-  <p class="interviewbody"> I think the concept of scaffolding here in terms of surveillance is more about the community.  Empowering members of the community and the community organizations to promote and encourage values, which benefit the community at large.  Instead of surveilling or policing which instills more fear into people.
-  </p>
-
-  <p class="interviewbody"> As an architect, I think the first time I thought about surveillance or the idea of being watched/surveilled was when I was doing my thesis. A part of my project was designing a bridge, which connected the informal settlements to the wealthiest part of the city in Buenos Aires. I remember at the beginning it was just a one-way long bridge and my supervisor said that I should consider various entries and exits to this long bridge for safety reasons. The idea of being watched and having no escape route is quite terrifying.
-  </p>
-
-  <p class="interviewbody"> It's a hard question to answer whether architects think of surveillance in the process or not, but I would say generally no. That's just my cynical side which thinks that majority of architects don't really think too critically and beyond their given "design" problems.
-  </p>
-
-  <p class="interviewbody"> I do think there are others (architects, urban planners, etc) who think about how to create spaces for "easy surveillance" which in turn have created some problematic spaces. For example the initial courtyard designs for Regent Park. I think architects and urban designers have often thought that having "eyes" on the neighbourhood will prevent bad things from happening, but I think it's more about enabling the community to hold each other accountable. So again I would say that providing space for community advocates to protect the community (especially the mothers and the women in communities)
-This is more important than anything any architect or designer can build.
-  </p>
-
-    <p class="metadata">On June 17 2020 at 8:26 Gill wrote: </p>
-
-  <p class="interviewbody"> What if the dialogue about spatial surveillance was part of the design discourse or curriculum, like one of the common problems like natural light, proper ventilation that you had to solve? I’ve been meaning to dive into Jay Pitter’s pdf she provided for urbanists over the weekend, her teaching’s need to be integrated into architect’s curiculums for so many reasons. Perhaps without them we will keep getting Regent Park courtyards. Can you describe what the design situation was for the courtyard?
-  </p>
-
-  <p class="interviewbody"> I think this idea of holding eachother accountable can be explored a bit. On one hand, we could have a panopticon effect, you know you are being watched, so you behave, but on the other hand, I think there needs to be thought on the ways you hold eachother accountable. There are all these surveillance snitch apps like NEXT DOOR where you can anonymusly report your neighbour. In a sense that is a form of accountability, but it takes away from the care and trust that I think is missing (and why we feel we need covid track and trace apps in the first place).
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 8:52 pm Reza wrote: </p>
-
-  <p class="interviewbody"> I'm also not an expert on Regent Park but from what I've read, the old design was all inward facing courtyards, which were parking lots, with no views out to the main street. So this created a little safe-zone for people who wanted to sell drugs and do other not-so-great things. The buildings themselves covered the crimes which were happening internally. I don't think they've done a great job with the "revitalization" either. They keep praising it but gentrification isn't really the answer. We don't need more Karens.... and people calling out people for no reason. I think deeply rooted existing community structures need to studied and scrutinized more.
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 9:13 pm - Gill wrote: </p>
-
-  <p class="interviewbody"> I think sometimes we have this belief that architecture and design (in this case of the covid apps) or social media can actually solve deep rooted systemic issues. It sometimes feels like slapping a bandaid on a spewing drainpipe. These things are just the back drop to daily life, and although they can enable devastating consequences, they still are a product of deeply held beliefs and biases. I always think back to an example I read about a reserve in Canada (I don’t remember where exactly). The community consistantly had these 911 calls where the ambulance couldn’t get to the paitient in time, because the houses didn’t have house numbers. The ambulence drivers didn’t know or didn’t care enough to learn or couldn’t learn who lived where in these reserve communities. This one little thing like access to a house number that was denied for whatever reason time and time again fails the community.
-  </p>
-
-      <p class="metadata">On June 17, 2020 at 9:25 pm – Reza wrote: </p>
-
-  <p class="interviewbody"> Yeah I agree with these “gadgets” not really helping the deeply rooted issues. It’s like slapping windmills and solar panels on a house and calling it a day in terms of addressing the climate crisis.
-  </p>
-
-  <p class="interviewbody"> I think humans need these tangible things in order to make them feel good about doing something for a larger systemic change. I think both are needed in order to meaningfully change things.  However if the focus is only on one angle (whether it’s more macro or micro), it doesn’t work as effectively in my opinion.
-  </p>
-
-  <p class="interviewbody"> So the issues of surveillance can be and should be addressed with small incremental changes alongside larger and deeper conversations about why we even need it. How can we create a world where we don’t need to really have cameras? Why do people steal? How can we address that while at the same time thinking of short term fixes. It’s like the bodycam for cops, it doesn’t work, and hasnt stopped police brutality. At least in some cases we have evidence of what’s happening. Things won’t change unless we take what we learn from these small changes, and apply them to the larger conversation of why do the police represent? Why do they have so much power? How can we take away some of that power?
-  </p>
-
-  <p class="interviewbody"> So I think it’s necessary to do all we can from all possible angles. There aren’t any linear solutions to creating a more just world. We gotta try every single zigzagy route possible.
+  <p class="interviewbody"> Yeah, for me, the Covid apps were just something I couldn't really get into. It was ridiculous proposal for me that software could be used to help. How the Dutch government handled it was ridiculous. We don't need phone apps we need tests. Software could help but the way it was proposed as the main strategy for the solution and with all the known technical challenges, was and is astounding. However I know there are some good proposals for decentralised alternatives as proposed by some people from the CCC.
   </p>
 
         </b-col>
