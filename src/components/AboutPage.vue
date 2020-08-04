@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
 
 * {
-border: 0px black solid;
+border: 1px black solid;
 }
 .title {
   text-align: center;
@@ -34,19 +34,13 @@ padding-right: 20px;
 <div>
     <MenuBar/>
     <b-row class="title">
-    <b-col md="4"> </b-col>
-        <b-col md="4">
+        <b-col md="4" offset-md="4">
           <p></p>
-
-
-
         </b-col>
-          <b-col md="4"> </b-col>
     </b-row>
 
     <b-row class="content">
-    <b-col md="3"> </b-col>
-        <b-col md="6">
+        <b-col md="6" offset-md="3">
           <p>My new plan is to conduct an online interview series on personal experiences with surveillance. The interview series would be posted on its own website set up for the purpose with a feel towards informal conversations rather than the formal question and answer interview process. </p>
 
 
@@ -64,15 +58,12 @@ padding-right: 20px;
 <p>Special thanks to Alice Strete for technical collaboration and the Stimulerings Fonds for suppporting the project.</p>
 
         </b-col>
-          <b-col md="3"> </b-col>
     </b-row>
 
     <b-row>
-        <b-col md="2"> </b-col>
-        <b-col md="8">
+        <b-col md="8" offset-md="2">
           <b-img class="stimlogo" center src="media/stim.jpg"></b-img>
         </b-col>
-        <b-col md="2"> </b-col>
     </b-row>
 
 
