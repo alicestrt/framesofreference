@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
 
 * {
-border: 1px black solid;
+border: 0px black solid;
 }
 .title {
   text-align: center;
@@ -24,7 +24,8 @@ padding-right: 20px;
 .stimlogo {
   width: 30%;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
+
 }
 
 </style>
