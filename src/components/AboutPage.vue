@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
 
 * {
-border: 1px black solid;
+border: 0px black solid;
 }
 .title {
   text-align: center;
