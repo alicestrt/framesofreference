@@ -44,6 +44,24 @@ padding-bottom: 100px;
   padding-top: 40px;
 }
 
+.next {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 100px;
+
+}
+
+.next a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.next a:hover {
+  font-weight: bold;
+}
+
 </style>
 
 
@@ -151,6 +169,15 @@ Yes, that’s why an ‘algorithmic guard dog’ could be employed to examine wh
         </b-col>
     </b-row>
 
+    <b-row class= "next">
+      <b-col md="1" offset-md="5">
+        <p><a href="/RezaNik"><<</a> </p>
+      </b-col>
+
+      <b-col md="1">
+        <p><a href="/EmmaFagan"> >> </a></p>
+      </b-col>
+    </b-row>
 
 
 </div>

@@ -15,7 +15,7 @@ font-family: 'Raleway', sans-serif;
 
 .content {
 padding-top: 20px;
-padding-bottom: 100px;
+padding-bottom: 50px;
 }
 
 .metadata {
@@ -44,6 +44,23 @@ padding-bottom: 100px;
   padding-top: 40px;
 }
 
+.next {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 100px;
+
+}
+
+.next a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.next a:hover {
+  font-weight: bold;
+}
 </style>
 
 
@@ -188,6 +205,18 @@ This is more important than anything any architect or designer can build.
   </p>
 
         </b-col>
+    </b-row>
+
+    <b-row class= "next">
+      <b-col md="1" offset-md="5">
+        <p><a href="/BeaPero"><<</a> </p>
+      </b-col>
+
+      <b-col md="1">
+        <p><a href="/Veravanderburg"> >> </a></p>
+      </b-col>
+
+
     </b-row>
 
 

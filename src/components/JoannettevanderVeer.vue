@@ -44,6 +44,29 @@ padding-bottom: 100px;
   padding-top: 40px;
 }
 
+.next {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 100px;
+
+}
+
+.next a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.next a:hover {
+  font-weight: bold;
+}
+
+.gif {
+  width: 100%;
+  margin-top: 50px;
+}
+
 </style>
 
 
@@ -191,18 +214,32 @@ padding-bottom: 100px;
 
   </p>
 
-  <p class="interviewbody">As for the comment / idea about the drone I think it just drew away our attention to that what mattered. I don’t know if you watch Rupaul’s Drag Race but I’d like to also refer to this moment by Jaida Essence Hall in which she caused for confusion within a political debate by drawing the attention away from what was really important: (insert GIF here)
+  <p class="interviewbody">As for the comment / idea about the drone I think it just drew away our attention to that what mattered. I don’t know if you watch Rupaul’s Drag Race but I’d like to also refer to this moment by Jaida Essence Hall in which she caused for confusion within a political debate by drawing the attention away from what was really important:
   </p>
+
 
   <p class="interviewbody">So perhaps, indirectly, it is to drown out the collective voice by disrupting what we all could hear and see at that particular time…
   </p>
 
+  <b-row class="gif">
+      <b-col md="4" offset-md="2">
+        <b-img  center src="media/rupaul.gif"></b-img>
+      </b-col>
+  </b-row>
 
 
         </b-col>
     </b-row>
 
+    <b-row class= "next">
+      <b-col md="1" offset-md="5">
+        <p><a href="/DorothyCheung"><<</a> </p>
+      </b-col>
 
+      <b-col md="1">
+        <p><a href="/BeaPero"> >> </a></p>
+      </b-col>
+    </b-row>
 
 </div>
 

@@ -24,7 +24,8 @@ padding-right: 20px;
 .stimlogo {
   width: 30%;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
+
 }
 
 </style>
