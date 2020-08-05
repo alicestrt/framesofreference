@@ -19,6 +19,7 @@ font-size: 16px;
 text-align: justify;
 padding-left: 20px;
 padding-right: 20px;
+font-weight: 500;
 }
 
 .stimlogo {

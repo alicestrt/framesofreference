@@ -11,7 +11,8 @@ border: 0px black solid;
 text-align: center;
 padding-top: 0px;
 color: black;
-font-family: 'Lato', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-weight: 500;
 
 }
 
@@ -29,9 +30,10 @@ padding-bottom: 50px;
 }
 
 .interviewbody {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-align: justify;
   font-size: 16px;
+  font-weight: 500;
 }
 
 .photo {
