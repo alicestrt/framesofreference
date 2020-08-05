@@ -85,7 +85,7 @@ padding-bottom: 100px;
   }
 
   .title {
-    text-align: left;
+    text-align: center;
     padding-left: 25px;
     padding-right: 25px;
   }

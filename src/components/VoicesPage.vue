@@ -38,7 +38,8 @@ border: 0px black solid;
 }
 
 a {
-    color: black;
+    color: black;  
+
 }
 
 a:hover {
