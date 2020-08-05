@@ -94,7 +94,7 @@ a:hover {
         <b-col md="6" offset-md="3">
           <a href="/Veravanderburg">  <p class="name">Vera van der Burg</p> </a>
           <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
-            <p> Machine learning, labeling, technological <a href="/Veravanderburg"> solutionism.</a></p>
+            <p> Read Vera’s interview about AI’s role as a pattern recognizer, its strengths and weaknessess as applied to complexity and its potential for future use <a href="/Veravanderburg"> here.</a></p>
         </b-col>
 
     </b-row>
@@ -116,7 +116,7 @@ a:hover {
 
             <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-          <p> tracking, games, trust <a href="/EmmaFagan"> trust.</a></p>
+          <p> Read Emma’s interview about trusting the void, fear, and her relationship using everyday tracking apps <a href="/EmmaFagan"> here.</a></p>
         </b-col>
 
     </b-row>
@@ -136,7 +136,7 @@ a:hover {
           <a href="/LukeMurphy">  <p class="name">Luke Murphy</p> </a>
               <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-            <p> Start ups, media coverage of tech, encryption, hope, alternative structures of <a href="/LukeMurphy"> technology.</a></p>
+            <p> Read Luke’s interview about start up culture, media coverage of tech and encryption, shreds of hope and alternative structures of technology<a href="/LukeMurphy"> here.</a></p>
         </b-col>
 
     </b-row>
@@ -156,7 +156,7 @@ a:hover {
 
           <p>Dorothy Cheung (b. 1987) is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. https://www.dorothycheung.com/</p>
 
-            <p> 17/06/2020 – Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience<a href="/DorothyCheung"> here.</a></p>
+            <p>Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience<a href="/DorothyCheung"> here.</a></p>
         </b-col>
 
     </b-row>

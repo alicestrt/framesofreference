@@ -17,6 +17,7 @@ a:hover {
 
 .navbar {
   background-color: white;
+
 }
 
 </style>
