@@ -232,11 +232,11 @@ It brings to mind those physical demarcated spaces that many countries have made
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/LukeMurphy"><<</a> </p>
+        <p><a href="/LukeMurphy"> previous </a> </p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/JoannettevanderVeer"> >> </a></p>
+        <p><a href="/JoannettevanderVeer"> next </a></p>
       </b-col>
     </b-row>
 

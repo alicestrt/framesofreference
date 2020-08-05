@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
 
 * {
-border: 0px black solid;
+border: 1px black solid;
 }
 .title {
   text-align: justify;
@@ -165,11 +165,11 @@ I'm curious to know what you think about this, I remember that you used to use a
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/Veravanderburg"><<</a> </p>
+        <p><a href="/Veravanderburg"> previous </a> </p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/LukeMurphy"> >> </a></p>
+        <p><a href="/LukeMurphy"> next </a></p>
       </b-col>
     </b-row>
 

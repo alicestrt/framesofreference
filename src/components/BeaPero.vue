@@ -187,11 +187,11 @@ padding-bottom: 100px;
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/JoannettevanderVeer"><<</a> </p>
+        <p><a href="/JoannettevanderVeer"> previous </a> </p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/RezaNik"> >> </a></p>
+        <p><a href="/RezaNik"> next </a></p>
       </b-col>
     </b-row>
 

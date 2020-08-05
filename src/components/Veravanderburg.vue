@@ -171,11 +171,11 @@ Yes, that’s why an ‘algorithmic guard dog’ could be employed to examine wh
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/RezaNik"><<</a> </p>
+        <p><a href="/RezaNik"> previous </a></p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/EmmaFagan"> >> </a></p>
+        <p><a href="/EmmaFagan"> next </a></p>
       </b-col>
     </b-row>
 

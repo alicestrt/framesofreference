@@ -179,11 +179,11 @@ question. I'm thinking of the many layers of the Fediverse and peer-to-peer tech
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/EmmaFagan"><<</a> </p>
+        <p><a href="/EmmaFagan"> previous </a> </p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/DorothyCheung"> >> </a></p>
+        <p><a href="/DorothyCheung"> next </a></p>
       </b-col>
     </b-row>
 

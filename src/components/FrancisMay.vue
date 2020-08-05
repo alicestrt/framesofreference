@@ -44,6 +44,24 @@ padding-bottom: 100px;
   padding-top: 40px;
 }
 
+.next {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 100px;
+
+}
+
+.next a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.next a:hover {
+  font-weight: bold;
+}
+
 </style>
 
 
@@ -148,6 +166,15 @@ Health tracking. on fear, scaffolding, loosely adaptable infastructures, eyes on
         </b-col>
     </b-row>
 
+    <b-row class= "next">
+      <b-col md="1" offset-md="5">
+        <p><a href="/JoannettevanderVeer"> previous </a> </p>
+      </b-col>
+
+      <b-col md="1">
+        <p><a href="/BeaPero"> next </a></p>
+      </b-col>
+    </b-row>
 
 
 </div>
@@ -158,7 +185,7 @@ Health tracking. on fear, scaffolding, loosely adaptable infastructures, eyes on
 
 import MenuBar from './MenuBar'
 export default {
-    name: 'Francis May',
+    name: 'FrancisMay',
     components: {
         MenuBar
     }

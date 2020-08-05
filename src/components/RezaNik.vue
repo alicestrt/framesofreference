@@ -209,11 +209,11 @@ This is more important than anything any architect or designer can build.
 
     <b-row class= "next">
       <b-col md="1" offset-md="5">
-        <p><a href="/BeaPero"><<</a> </p>
+        <p><a href="/BeaPero"> previous </a> </p>
       </b-col>
 
       <b-col md="1">
-        <p><a href="/Veravanderburg"> >> </a></p>
+        <p><a href="/Veravanderburg"> next </a></p>
       </b-col>
 
 
