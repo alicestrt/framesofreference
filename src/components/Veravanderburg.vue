@@ -1,7 +1,7 @@
 <style scoped>
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@400;500&display=swap');
 
 * {
 border: 0px black solid;

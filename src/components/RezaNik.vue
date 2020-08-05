@@ -2,15 +2,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
 border: 0px black solid;
 }
 .title {
-  text-align: justify;
+text-align: center;
 padding-top: 0px;
 color: black;
-font-family: 'Raleway', sans-serif;
+font-family: 'Lato', sans-serif;
+
 }
 
 .content {
@@ -20,14 +22,14 @@ padding-bottom: 50px;
 
 .metadata {
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair display', serif;
   font-size: 18px;
   padding-top: 60px;
   padding-bottom: 5px;
 }
 
 .interviewbody {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
   text-align: justify;
   font-size: 16px;
 }
@@ -42,6 +44,7 @@ padding-bottom: 50px;
   text-align: center;
   font-size: 18px;
   padding-top: 40px;
+  font-weight: bold;
 }
 
 .next {
@@ -88,7 +91,7 @@ padding-bottom: 50px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.</p>
+          <p> conversation on 4/06/2020 </p>
       </b-col>
     </b-row>
 

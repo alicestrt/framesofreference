@@ -1,6 +1,7 @@
 <style scoped>
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 
 
 * {
@@ -72,7 +73,7 @@ a:hover {
             <p class="name"> <a href="/RezaNik">Reza Nik</a></p>
             <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-          <p> On fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, <a href="/RezaNik"> zig zaggy.</a></p>
+          <p> Read Reza’s interview about architectural construct of surveillance and its physical manifestation in built environment. We discuss misconceptions of fear and chaos that lead of over surveillance and policing measures as well as alternative structures<a href="/RezaNik"> here. </a></p>
 
         </b-col>
 
@@ -153,9 +154,9 @@ a:hover {
         <b-col md="6" offset-md="3">
           <a href="/DorothyCheung">  <p class="name">Dorothy Cheung</p> </a>
 
-          <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+          <p>Dorothy Cheung (b. 1987) is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. https://www.dorothycheung.com/</p>
 
-            <p> Public conversation, awareness, participation in systems, opting out, everyday tracking, differences between countries they marketing versus <a href="/DorothyCheung"> realities.</a></p>
+            <p> 17/06/2020 – Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience<a href="/DorothyCheung"> here.</a></p>
         </b-col>
 
     </b-row>

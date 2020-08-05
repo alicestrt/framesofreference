@@ -7,7 +7,7 @@
 border: 0px black solid;
 }
 .title {
-  text-align: justify;
+  text-align: center;
 padding-top: 0px;
 color: black;
 font-family: 'Raleway', sans-serif;
@@ -89,7 +89,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Public conversation, awareness, participation in systems, opting out, everyday tracking, differences between countries they marketing versus realities.</p>
+          <p> conversation on 17/06/2020</p>
       </b-col>
     </b-row>
 
