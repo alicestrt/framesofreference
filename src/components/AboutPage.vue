@@ -29,6 +29,18 @@ font-weight: 500;
 
 }
 
+@media (max-width: 575px) {
+  .content {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .stimlogo {
+    width: 50%;
+  }
+}
+
 </style>
 
 <template>

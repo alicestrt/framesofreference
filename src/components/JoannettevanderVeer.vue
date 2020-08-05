@@ -71,6 +71,36 @@ padding-bottom: 100px;
   margin-top: 50px;
 }
 
+@media (max-width: 575px) {
+  .interview_name {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .interviewbody {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .title {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .metadata {
+    padding-left: 25px;
+    padding-right: 25px;
+
+  }
+
+  .photo {
+    width: 70%;
+  }
+}
+
 </style>
 
 

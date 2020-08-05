@@ -65,6 +65,36 @@ padding-bottom: 100px;
   font-weight: bold;
 }
 
+@media (max-width: 575px) {
+  .interview_name {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .interviewbody {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .title {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .metadata {
+    padding-left: 25px;
+    padding-right: 25px;
+
+  }
+
+  .photo {
+    width: 70%;
+  }
+}
+
 </style>
 
 
@@ -92,7 +122,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Beatriz Pero Gianni on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. CCTV sidewalks, public space, </p>
+          <p>Beatriz Pero Gianni on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. CCTV sidewalks, public space, </p>
       </b-col>
     </b-row>
 

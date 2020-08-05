@@ -19,6 +19,8 @@ border: 0px black solid;
   padding-right: 20px;
   padding-bottom: 100px;
   font-weight: 500;
+  font-size: 16px;
+
 
 }
 
@@ -44,7 +46,13 @@ a:hover {
   text-decoration: none;
 }
 
-
+@media (max-width: 575px) {
+  .everyonebio {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
 </style>
 
 
