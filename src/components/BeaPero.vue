@@ -7,7 +7,7 @@
 border: 0px black solid;
 }
 .title {
-  text-align: justify;
+  text-align: center;
 padding-top: 0px;
 color: black;
 font-family: 'Raleway', sans-serif;
@@ -122,7 +122,11 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
+<<<<<<< HEAD
           <p>Beatriz Pero Gianni on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy. CCTV sidewalks, public space, </p>
+=======
+          <p>conversation on 04/07/2020 </p>
+>>>>>>> 6677299d8aa5001adc969ddc4d7309ee361814d0
       </b-col>
     </b-row>
 

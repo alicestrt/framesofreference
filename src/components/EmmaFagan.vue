@@ -7,7 +7,7 @@
 border: 0px black solid;
 }
 .title {
-  text-align: justify;
+  text-align: center;
 padding-top: 0px;
 color: black;
 font-family: 'Raleway', sans-serif;
@@ -95,6 +95,16 @@ padding-bottom: 100px;
     width: 70%;
   }
 }
+
+  a {
+      color: black;
+  }
+
+  a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
 </style>
 
 
@@ -122,7 +132,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p></p>
+          <p> conversation on 01/05/2020</p>
       </b-col>
     </b-row>
 

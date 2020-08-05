@@ -42,8 +42,10 @@ a {
 }
 
 a:hover {
-  color: gray;
+  color: black;
   text-decoration: none;
+  font-weight: bold;
+
 }
 
 @media (max-width: 575px) {
@@ -163,7 +165,8 @@ a:hover {
         <b-col md="6" offset-md="3">
           <a href="/DorothyCheung">  <p class="name">Dorothy Cheung</p> </a>
 
-          <p>Dorothy Cheung (b. 1987) is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. https://www.dorothycheung.com/</p>
+          <p>Dorothy Cheung (b. 1987) is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. Take a look at her work
+            <a href="https://www.dorothycheung.com"> here.</a></p>
 
             <p>Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience<a href="/DorothyCheung"> here.</a></p>
         </b-col>
@@ -185,7 +188,7 @@ a:hover {
 
           <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-            <p> on digital skid marks, protests,  <a href="/JoannettevanderVeer"> drones.</a></p>
+            <p> Read Joannette’s interview about her relationship with privacy and surveillance and the covid tracking app, her experience with drones as a way of policing, and the myth that all software is created in a vacum <a href="/JoannettevanderVeer"> here.</a></p>
         </b-col>
 
     </b-row>
@@ -206,7 +209,7 @@ a:hover {
 
             <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-              <p> Government funding, privacy, public health, data gathering, Canada, tracking. <a href="/FrancisMay"> Health.</a></p>
+              <p> Read Francis’s interview about Canada’s health data gathering system, issues of access to the covid app, and the private companies involved handling our personal bodily data <a href="/FrancisMay"> here. </a></p>
 
         </b-col>
 
@@ -226,7 +229,7 @@ a:hover {
 
           <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
 
-          <p> Government CCTV sidewalks, public space tracking. <a href="/BeaPero"> municipalicties.</a></p>
+          <p> Read Beatriz’s interview on her research into sidewalks, the politics of public space in Lima, and the perpetual myth that CCTV increases public safety <a href="/BeaPero"> here.</a></p>
 
         </b-col>
 

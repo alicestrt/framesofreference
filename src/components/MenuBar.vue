@@ -12,7 +12,8 @@ font-size: 24px;
 }
 
 a:hover {
-  color: gray;
+  color: black;
+  font-weight: bold;
 }
 
 .navbar {
