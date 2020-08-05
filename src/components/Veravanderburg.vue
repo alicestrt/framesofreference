@@ -11,6 +11,7 @@ border: 0px black solid;
 padding-top: 0px;
 color: black;
 font-family: 'Raleway', sans-serif;
+font-weight: 500;
 }
 
 .content {
@@ -30,6 +31,8 @@ padding-bottom: 100px;
   font-family: 'Raleway', sans-serif;
   text-align: justify;
   font-size: 16px;
+  font-weight: 500;
+
 }
 
 .photo {
@@ -42,6 +45,8 @@ padding-bottom: 100px;
   text-align: center;
   font-size: 18px;
   padding-top: 40px;
+  font-weight: bold;
+
 }
 
 .next {

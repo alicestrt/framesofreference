@@ -18,6 +18,7 @@ border: 0px black solid;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 100px;
+  font-weight: 500;
 
 }
 
