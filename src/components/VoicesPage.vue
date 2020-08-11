@@ -38,7 +38,7 @@ border: 0px black solid;
 }
 
 a {
-    color: black;  
+    color: black;
 
 }
 
@@ -73,7 +73,7 @@ a:hover {
     <b-row>
 
         <b-col md="2" offset-md="5">
-          <b-img class="circle" center src="media/spiral.png"></b-img>
+          <b-img class="circle" center src="media/circletest.png"></b-img>
         </b-col>
 
     </b-row>

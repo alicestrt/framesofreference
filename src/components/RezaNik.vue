@@ -93,7 +93,7 @@ padding-bottom: 50px;
   }
 
   .photo {
-    width: 70%;
+    width: 10%;
   }
 }
 </style>
@@ -110,7 +110,7 @@ padding-bottom: 50px;
 
     <b-row>
         <b-col md="6" offset-md="3">
-          <b-img class="photo" center src="media/halfhouse.jpg"></b-img>
+          <b-img class="photo" center src="media/circletest.png"></b-img>
         </b-col>
     </b-row>
 

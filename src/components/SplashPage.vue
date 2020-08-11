@@ -27,6 +27,12 @@ text {
   text-align: center;
 
 }
+
+.photo {
+  width: 150%;
+
+}
+
 </style>
 
 
@@ -35,6 +41,12 @@ text {
 <div>
   <MenuBar />
   <b-container fluid>
+
+    <b-row>
+        <b-col md="7" offset-md="1">
+          <b-img class="photo" center src="media/hometest.png"></b-img>
+        </b-col>
+    </b-row>
 
     <b-row>
 
