@@ -146,7 +146,7 @@ a:hover {
 
         <b-col md="6" offset-md="3">
           <a href="/LukeMurphy">  <p class="name">Luke Murphy</p> </a>
-              <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+              <p>Luke Murphy is a programmer and researcher based in Rotterdam, The Netherlands whose interests currently revolve around peer-to-peer systems, cypherspace, low-tech constraints, DIWO approaches, counterfoil research and community organising. He is a proud member of Varia, the center for everyday technology. His website is https://decentral1.se.</p>
 
             <p> Read Luke’s interview about start up culture, media coverage of tech and encryption, shreds of hope and alternative structures of technology<a href="/LukeMurphy"> here.</a></p>
         </b-col>
