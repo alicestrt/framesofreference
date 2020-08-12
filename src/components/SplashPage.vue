@@ -32,37 +32,37 @@
     <div class="circles">
     <b-row>
     <b-col md="3">
-      <a href="/about"> <b-img class="mx-auto" src="media/square.svg"></b-img></a>
+      <a href="/RezaNik"> <b-img class="mx-auto" src="media/reza.svg"></b-img></a>
     </b-col>
     <b-col md="3">
-      <a href="/about"><b-img class="mx-auto" src="media/square.svg"></b-img></a>
+      <a href="/Veravanderburg"><b-img class="mx-auto" src="media/vera.svg"></b-img></a>
 
     </b-col>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/EmmaFagan">  <b-img class="mx-auto" src="media/emma.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/LukeMurphy">  <b-img class="mx-auto" src="media/luke.svg"></b-img> </a>
 
     </b-col>
     </b-row>
 
     <b-row>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/DorothyCheung">  <b-img class="mx-auto" src="media/dorothy.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/JoannettevanderVeer">  <b-img class="mx-auto" src="media/joannette.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/FrancisMay">  <b-img class="mx-auto" src="media/francis.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
+    <a href="/BeaPero">  <b-img class="mx-auto" src="media/bea.svg"></b-img> </a>
 
     </b-col>
     </b-row>
