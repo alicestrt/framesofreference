@@ -13,7 +13,7 @@ font-size: 24px;
 
 a:hover {
   color: black;
-  font-weight: bold;
+opacity: 50%;
 }
 
 .navbar {
