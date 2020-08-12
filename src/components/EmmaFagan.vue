@@ -142,7 +142,7 @@ padding-bottom: 100px;
         <b-col md="6" offset-md="3">
     <p class="metadata">On May 1st 2020 at 2:17 pm – Gill wrote:</p>
 
-<p class="interviewbody">Being fortunate enough to have extra time to think I've began to think about surveillance as a more multifaceted thing.
+<p class="interviewbody"> I've began to think about surveillance as a more multifaceted thing.
 
 I used to think of surveillance being a black and white problem, all bad, nothing good and it is still has its problems, but with the coronavirus spreading around the world, some countries like Singapore, Israel and certain parts of Australia (here's a link https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9) are implementing apps to track the population in regards to the virus. I wonder if this is a way forward? Currently there is no proof that these apps work as it is still way too early to know.
 </p>
@@ -151,7 +151,6 @@ I used to think of surveillance being a black and white problem, all bad, nothin
 
   <p class="metadata">On May 1st 2020 at 3:22 pm – Emma wrote: </p>
 
-<p class="interviewbody">Firstly I had all intention of reading the article you sent before responding but its tres long. I have read some app corona theory and plans so I do know some of what you’re talking about.</p>
 
 <p class="interviewbody">The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you.</p>
 

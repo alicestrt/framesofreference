@@ -20,6 +20,14 @@
   opacity: 50%;
 }
 
+@media (max-width: 575px) {
+.circles {
+  padding-top: 100px;
+}
+
+
+}
+
 
 </style>
 
