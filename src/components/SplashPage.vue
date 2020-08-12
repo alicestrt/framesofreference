@@ -5,24 +5,21 @@
   border: 0px black solid;
 }
 
-.photo {
-  width: 150%;
-
-}
-
 .circles {
-  margin-top: 100px;
-  padding-left: 50px;
-  padding-right: 80px;
+  margin-top: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+
 }
 
 .circles img {
-  width: 120%;
+  width: 100%;
 }
 
-.circles a:hover {
+.circles img:hover {
   opacity: 50%;
 }
+
 
 </style>
 
@@ -31,41 +28,41 @@
 <template>
 <div>
   <MenuBar />
-  <b-container fluid>
+  <b-container fluid class="p-0">
     <div class="circles">
     <b-row>
     <b-col md="3">
-      <a href="/about"> <b-img center src="media/square.svg"></b-img></a>
+      <a href="/about"> <b-img class="mx-auto" src="media/square.svg"></b-img></a>
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+      <a href="/about"><b-img class="mx-auto" src="media/square.svg"></b-img></a>
 
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     </b-row>
 
     <b-row>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     <b-col md="3">
-      <b-img center src="media/square.svg"></b-img>
+    <a href="/about">  <b-img class="mx-auto" src="media/square.svg"></b-img> </a>
 
     </b-col>
     </b-row>
