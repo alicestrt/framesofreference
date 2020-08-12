@@ -38,9 +38,9 @@ a:hover {
      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
      <b-collapse id="nav-collapse" is-nav>
        <b-nav class="justify-content-center mx-auto w-100">
-          <b-nav-item to='/'>Home</b-nav-item>
-          <b-nav-item to='/about'>About</b-nav-item>
-          <b-nav-item to='/voices'>Voices</b-nav-item>
+          <b-nav-item to='/'>HOME</b-nav-item>
+          <b-nav-item to='/about'>ABOUT</b-nav-item>
+          <b-nav-item to='/voices'>VOICES</b-nav-item>
 
 
         </b-nav>

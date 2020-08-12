@@ -110,7 +110,7 @@ padding-bottom: 50px;
 
     <b-row>
         <b-col md="6" offset-md="3">
-          <b-img class="photo" center src="media/circletest.png"></b-img>
+          <b-img class="photo" center src="media/reza.svg"></b-img>
         </b-col>
     </b-row>
 

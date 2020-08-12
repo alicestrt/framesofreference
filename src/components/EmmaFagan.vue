@@ -119,7 +119,7 @@ padding-bottom: 100px;
 
     <b-row>
         <b-col md="6" offset-md="3">
-          <b-img class="photo" center src="media/halfhouse.jpg"></b-img>
+          <b-img class="photo" center src="media/emma.svg"></b-img>
         </b-col>
     </b-row>
 
