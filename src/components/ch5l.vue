@@ -59,6 +59,10 @@ font-weight: 500;
 
 
 <p>ch5l</p>
+
+<audio controls>  <source src="/surveillancestoriesaudio/Chapter 5.mp3" type="audio/mpeg">
+
+</audio>
         </b-col>
     </b-row>
 

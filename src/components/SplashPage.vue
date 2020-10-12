@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans&display=swap');
 
 * {
-  border: 1px black solid;
+  border: 0px black solid;
 }
 
 .circles {
