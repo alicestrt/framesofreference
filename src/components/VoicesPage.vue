@@ -89,7 +89,7 @@ text-decoration: underline;
 
         <b-col md="6" offset-md="3">
             <p class="name">Reza Nik</p>
-            <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+            <p>Reza Nik the founder of an experimental architecture studio called <a href="https://sheeep.ca/">SHEEEP.</a> He is an Iranian-Canadian architect, artist and educator based in Toronto, Canada. Reza has a background in art history and he teaches at the University of Toronto’s Faculty of Architecture. He is passionate about closing the gap between practice & academia, experimental & social and art & architecture. Reza is also one of the founding members of the Toronto chapter of the   <a href="https://msha.ke/taltoronto/"> Architecture Lobby</a> and currently acts as the Research and Education coordinator. </p>
 
           <p> Read Reza’s interview about architectural construct of surveillance and its physical manifestation in built environment. We discuss misconceptions of fear and chaos that lead of over surveillance and policing measures as well as alternative structures <a href="/RezaNik">here</a>.</p>
 
@@ -111,7 +111,9 @@ text-decoration: underline;
 
         <b-col md="6" offset-md="3">
         <p class="name">Vera van der Burg</p>
-          <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+          <p> Vera van der Burg is an interdisciplinary designer and researcher, focussing on Artificial Intelligence and how it can operate in the field of Art & Design. Previously schooled as a neuroscientist, she operates on the intersection of design, art and theoretical research. In her work, she tries to connect and integrate insights and methods from different fields of expertise in which human perception plays a central role. Her main topics of interest are Artificial Intelligence, Machine Learning, Image/Object Recognition, Semiotics and Human Perception Systems. Take a look at her work
+            <a href="https://veravanderburg.nl/"> here.</a>
+ </p>
             <p> Read Vera’s interview about AI’s role as a pattern recognizer, its strengths and weaknessess when it's applied to complexity and its potential for future use <a href="/Veravanderburg">here</a>.</p>
         </b-col>
 
@@ -194,7 +196,7 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
           <p class="name">Joannette van der Veer</p>
 
-          <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+          <p>Joannette van der Veer is a curator and write based in Rotterdam. She works in the field of design, art and culture. Take a look at her work <a href="https://www.dorothycheung.com"> here.</a></p>
 
             <p> Read Joannette’s interview about her relationship with privacy and surveillance and the covid tracking app, her experience with drones as a way of policing, and the myth that all software is created in a vacum <a href="/JoannettevanderVeer">here</a>.</p>
         </b-col>
@@ -215,7 +217,7 @@ text-decoration: underline;
           <p class="name">  Francis May</p>
 
 
-            <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+            <p>Francis May is an administrator for the <a href="http://torontosocietyofarchitects.ca">Toronto Society of Architects.</a> </p>
 
               <p> Read Francis’s interview about Canada’s health data gathering system, issues of access to the covid app, and the private companies involved handling our personal bodily data <a href="/FrancisMay">here</a>.</p>
 
@@ -235,7 +237,7 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
           <p class="name">Beatriz Pero Gianni</p>
 
-          <p>The way I see it is that data tracking for the corona virus still implicitly relies on trust in the user to be honest, which if the Internet has taught us anything, it’s that you cannot trust the user to be honest. There is a dominant sub culture to use the Internet to mask our selves and be bolder, louder, prettier, more interesting and more perfect. Because to put up a less than perfect facade is to be on stage inviting the criticisms of others emboldened and protected by the distance of the Internet to judge you. </p>
+          <p> Beatriz is a Peruvian-Italian architect, researcher, and designer based in Rotterdam (NL).  She graduated cum laude from the Piet Zwart Institute, Master Interior Architecture: Research + Design in 2019 in Rotterdam, and in the top 10% of her class at Universidad Peruana de Ciencias Aplicadas, Lima (PE). She is a collaborator of Goodmesh, and founder of LLAQTA an architectural studio that explores the collision of the urban and human scales.The studio is critically interested in the socio-cultural implications of design and how it produces meaning in everyday life, and committed to challenging established conceptions and norms to generate positive change through design and research.</p>
 
           <p> Read Beatriz’s interview on her research into sidewalks, the politics of public space in Lima, and the perpetual myth that CCTV increases public safety <a href="/BeaPero">here</a>.</p>
 

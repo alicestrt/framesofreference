@@ -27,8 +27,16 @@ import BeaPero from './components/BeaPero'
 import FrancisMay from './components/FrancisMay'
 import Veravanderburg from './components/Veravanderburg'
 import JoannettevanderVeer from './components/JoannettevanderVeer'
-
-
+import AudioTour from './components/AudioTour'
+import introduction from './components/introduction'
+import test from './components/test'
+import ch1d from './components/ch1d'
+import ch2j from './components/ch2j'
+import ch3j from './components/ch3j'
+import ch4b from './components/ch4b'
+import ch5l from './components/ch5l'
+import ch6r from './components/ch6r'
+import conclusion from './components/conclusion'
 Vue.config.productionTip = false
 
 Vue.use(BootstrapVue)
@@ -48,6 +56,16 @@ const router = new VueRouter({
     { path: '/FrancisMay', component: FrancisMay},
     { path: '/Veravanderburg', component: Veravanderburg},
     { path: '/JoannettevanderVeer', component: JoannettevanderVeer},
+    { path: '/AudioTour', component: AudioTour},
+    { path: '/introduction', component: introduction},
+    { path: '/test', component: test},
+    { path: '/ch1d', component: ch1d},
+    { path: '/ch2j', component: ch2j},
+    { path: '/ch3j', component: ch3j},
+    { path: '/ch4b', component: ch4b},
+    { path: '/ch5l', component: ch5l},
+    { path: '/ch6r', component: ch6r},
+    { path: '/conclusion', component: conclusion},
 
   ]
 
