@@ -55,21 +55,25 @@ font-weight: 500;
 
     <b-row class="content">
         <b-col md="6" offset-md="3">
-          <p>My new plan is to conduct an online interview series on personal experiences with surveillance. The interview series would be posted on its own website set up for the purpose with a feel towards informal conversations rather than the formal question and answer interview process. </p>
+          <p>In the spring of 2020 all of our plans either went on hold or completely went to shit. My own plans to conduct public workshops and work in computer labs exploring the relationship with AI based surveillance and the human body was canceled. </p>
 
 
 
-<p>Currently around the world over 28 countries have swiftly adopted comprehensive surveillance measure in an attempt to control covid-19. Last Monday The Netherlands have introduced the idea of two possible apps that seem to propose a similar solution to easing the lockdown conditions. This generates a whole new meaning for surveillance in regards to the body and its relationship to AI technologies.</p>
+<p>I decided to shift my research focus to a similar topic in the news. Multiple countries were rolling out either mandatory, or voluntary track and trace apps, or increasing surveillance for incoming travelers or those returning to their home country. The mass super structure of surveillance capitalism is already here and thriving, this was just one step closer to full normalization. I was tired of reading expert reports, and wanted to know what did those around me think? How did they feel? What were their experiences, and did they even care at all? The following are a series of conversations with those near to me who I felt had an interest in surveillance and public space, design, art, artificial intelligence, technology and social justice. </p>
 
 
 
-<p>Right now we are in an in-between period before these changes are put into place, we can still question and discuss these possible changes. I want to understand how others feel, and get a more diverse viewpoint on opinions about surveillance in general.</p>
+<p>The research became less about my own opinions, and more about what others had to say and how to best present their lived experiences. Here, personal anecdotes triumph over professional opinions and the thoughts of the amateur matter more than the expert. </p>
 
 
 
-<p>I will integrate memories and personal photos, for example ask my participants about the first time they remember scanning their thumb print, describe the process and send a picture of their thumb. Ask each participant to draw their route to the grocery store, speak about their first memory on camera etc and send a picture from that time. I believe that this process is a strong research component to developing an artistic work later in the year. Some of my participants have different skill sets, for example one is an AI researcher so I would adapt my questions accordingly to their background.</p>
+<p>Never before has the movement of human bodies through space been more important, more controlled and more scrutinized by the governments and the powers that be. This is an attempt to listen to the emotional and personal impacts that surveillance has on us and on our human bodies.
+</p>
 
-<p>Special thanks to Alice Strete for technical collaboration and the Stimulerings Fonds for suppporting the project.</p>
+<p>Why circles? Many city parks across Europe and North America are adorned with this new type of marking, functioning both as décor and safety regulation. Circles sprayed onto the grass as a sort of suggested guideline to keep groups away from others. The circle also never ends. There is no linear routes, no finish lines or answers to our surveillance society. We keep traveling round and round, trying to keep aware and keep afloat from drowning in the rapids of digital literacy.
+</p>
+
+<p>Special thanks to Alice Strete for teaching me how to build a website from scratch and the Stimulerings Fonds for suppporting the project.</p>
 
         </b-col>
     </b-row>

@@ -133,7 +133,7 @@ padding-bottom: 100px;
         <b-col md="6" offset-md="3">
     <p class="metadata">On July 4, 2020 at 12:58 pm Gill wrote:</p>
 
-<p class="interviewbody">I want to talk about your work first (because I think it relates) and then we can get into the situation today with corona track and trace applications. Could you give a short context to what your graduation thesis was about and how/why you felt that CCTV cameras should play a role in the mapping research that you completed?
+<p class="interviewbody">I want to talk about your work first because I think it relates to our situation today.  Could you give a short context to what your graduation thesis was about and why you felt that CCTV cameras should play a role in the mapping research that you completed?
  </p>
 
   <p class="metadata">On July 4, 2020 at 1:44 pm Bea wrote: </p>

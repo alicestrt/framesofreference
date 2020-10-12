@@ -1,5 +1,5 @@
-DEST   := /var/www/food.alicestrete.me
-REMOTE := kstraat
+DEST   := /var/www/surveillancestories.com
+REMOTE := surveillancestories.com
 RSYNC  := rsync -chavzP --rsync-path="sudo rsync"
 SRC    := dist/*
 SSH    := ssh -t
