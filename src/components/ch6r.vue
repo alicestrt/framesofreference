@@ -58,7 +58,7 @@ font-weight: 500;
 
 
 
-<p>CLICK TO PLAY CH6R</p>
+<p>CLICK TO PLAY CHAPTER 6</p>
 
 <audio controls>  <source src="/surveillancestoriesaudio/Chapter6.mp3" type="audio/mpeg">
 
