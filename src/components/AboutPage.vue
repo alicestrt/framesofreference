@@ -14,12 +14,21 @@ color: hotpink;
 .content
 {
 font-family: 'Raleway', sans-serif;
-padding-top: 100px;
+padding-top: 20px;
 font-size: 16px;
 text-align: justify;
 padding-left: 20px;
 padding-right: 20px;
 font-weight: 500;
+}
+
+.interview_name {
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  font-size: 18px;
+  padding-top: 40px;
+  font-weight: bold;
+
 }
 
 .stimlogo {
@@ -39,6 +48,7 @@ font-weight: 500;
   .stimlogo {
     width: 50%;
   }
+
 }
 
 </style>
@@ -53,29 +63,35 @@ font-weight: 500;
         </b-col>
     </b-row>
 
+    <b-row>
+        <b-col md="6" offset-md="3">
+          <p class= "interview_name"> About the project </p>
+        </b-col>
+    </b-row>
+
     <b-row class="content">
         <b-col md="6" offset-md="3">
-          <p>In the spring of 2020 all of our plans either went on hold or completely went to shit. My own plans to conduct public workshops and work in computer labs exploring the relationship with AI based surveillance and the human body was canceled. </p>
+          <p>It is safe to say that in the Spring of 2020 all of our plans went on hold or completely went awry as the world went into various stages of quarantine. My own plans to conduct public workshops exploring the relationship with AI based surveillance and the human body was cancelled.  </p>
 
 
 
-<p>I decided to shift my research focus to a similar topic in the news. Multiple countries were rolling out either mandatory, or voluntary track and trace apps, or increasing surveillance for incoming travelers or those returning to their home country. The mass super structure of surveillance capitalism is already here and thriving, this was just one step closer to full normalization. I was tired of reading expert reports, and wanted to know what did those around me think? How did they feel? What were their experiences, and did they even care at all? The following are a series of conversations with those near to me who I felt had an interest in surveillance and public space, design, art, artificial intelligence, technology and social justice. </p>
+<p>My research shifted to a similar topic in the news. Multiple countries were rolling out either mandatory, or voluntary track and trace apps, increasing surveillance for incoming travelers or those returning to their home country. Surveillance capitalism was already here and thriving but the pandemic provided the perfect set of conditions towards full normalization.  </p>
 
 
 
-<p>The research became less about my own opinions, and more about what others had to say and how to best present their lived experiences. Here, personal anecdotes triumph over professional opinions and the thoughts of the amateur matter more than the expert. </p>
+<p>I was tired of reading expert reports, and wanted to know more about what did those around me think? How did they feel? What were their experiences? Did they even care at all? The following are a series of conversations with my peers who I felt had an interest in surveillance and public space, design, art, artificial intelligence, technology and social justice. Here, personal anecdotes triumph over professional opinions and the thoughts of the amateur matter more than the expert.  </p>
 
 
 
-<p>Never before has the movement of human bodies through space been more important, more controlled and more scrutinized by the governments and the powers that be. This is an attempt to listen to the emotional and personal impacts that surveillance has on us and on our human bodies.
+<p>Why circles? In the summer many city parks across Europe and North America were adorned with this new type of graphic, dually functioning as both décor and safety regulation to keep us separate and safe while outside. Finally, a circle never ends. There are no linear routes and no clear answers to living in our surveillance society. Round and round we go, trying to keep afloat from drowning in the ever-expanding rapids of digital literacy. Never before has the movement of human bodies through space been more important, more controlled and more scrutinized by the governments and the powers that be. This is an attempt to listen to the emotional and personal impacts that surveillance has on us and on our human bodies.
 </p>
 
-<p>Why circles? Many city parks across Europe and North America are adorned with this new type of marking, functioning both as décor and safety regulation. Circles sprayed onto the grass as a sort of suggested guideline to keep groups away from others. The circle also never ends. There is no linear routes, no finish lines or answers to our surveillance society. We keep traveling round and round, trying to keep aware and keep afloat from drowning in the rapids of digital literacy.
+<p>There Is Something I’ve Been Meaning to Ask You, an interactive audio tour throughout the city center of Rotterdam was created as a reflection on these interviews. You can access the audio <a href="/AudioTour"> here </a>and download the booklet to take the tour here.
 </p>
 
-<p>Special thanks to Alice Strete for teaching me how to build a website from scratch and the Stimulerings Fonds for suppporting the project.</p>
+<p>Special thanks to Alice Strete for technical support and the Stimulerings Fonds for suppporting the project.</p>
 
-<p><a href="/AudioTour"> There is Something I've Been Meaning To Ask You...</a></p>
+
         </b-col>
     </b-row>
 

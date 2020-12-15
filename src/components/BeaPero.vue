@@ -115,7 +115,7 @@ padding-bottom: 100px;
 
     <b-row>
         <b-col md="6" offset-md="3">
-          <p class= "interview_name"> Beatriz Pero Gianni </p>
+          <p class= "interview_name"> Beatriz Pero Giannini </p>
         </b-col>
     </b-row>
 

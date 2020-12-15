@@ -54,7 +54,7 @@ font-weight: 500;
     </b-row>
 
     <b-row class="content">
-        <b-col md="6" offset-md="3">
+        <b-col md="6" offset-md="4">
 
 
 

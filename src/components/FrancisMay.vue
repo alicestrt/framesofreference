@@ -86,6 +86,7 @@ padding-bottom: 100px;
     padding-right: 25px;
   }
 
+
   .metadata {
     padding-left: 25px;
     padding-right: 25px;
@@ -124,9 +125,7 @@ padding-bottom: 100px;
 
     <b-row class="title">
       <b-col md="6" offset-md="3">
-          <p>Francis May Government funding, privacy, public health, data gathering, Canada ,
-Health tracking. on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.Reza Nik on fear, scaffolding, loosely adaptable infastructures, eyes on the street, architecture, zig zaggy.
-          </p>
+          <p>conversation on 24/06/2020</p>
       </b-col>
     </b-row>
 

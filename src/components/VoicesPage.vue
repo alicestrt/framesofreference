@@ -89,9 +89,9 @@ text-decoration: underline;
 
         <b-col md="6" offset-md="3">
             <p class="name">Reza Nik</p>
-            <p>Reza Nik the founder of an experimental architecture studio called <a href="https://sheeep.ca/">SHEEEP.</a> He is an Iranian-Canadian architect, artist and educator based in Toronto, Canada. Reza has a background in art history and he teaches at the University of Toronto’s Faculty of Architecture. He is passionate about closing the gap between practice & academia, experimental & social and art & architecture. Reza is also one of the founding members of the Toronto chapter of the   <a href="https://msha.ke/taltoronto/"> Architecture Lobby</a> and currently acts as the Research and Education coordinator. </p>
+            <p>Reza Nik is the founder of an experimental architecture studio called <a href="https://sheeep.ca/">SHEEEP.</a> He is an Iranian-Canadian architect, artist and educator based in Toronto, Canada. Reza has a background in art history and he teaches at the University of Toronto’s Faculty of Architecture. He is passionate about closing the gap between practice & academia, experimental & social and art & architecture. Reza is also one of the founding members of the Toronto chapter of the <a href="https://msha.ke/taltoronto/"> Architecture Lobby</a> and currently acts as the Research and Education coordinator. </p>
 
-          <p> Read Reza’s interview about architectural construct of surveillance and its physical manifestation in built environment. We discuss misconceptions of fear and chaos that lead of over surveillance and policing measures as well as alternative structures <a href="/RezaNik">here</a>.</p>
+          <p> Read Reza’s interview about the architectural construct of surveillance and its physical manifestation in the built environment. We discuss misconceptions of fear and chaos that lead to over policing measures as well as alternative structures <a href="/RezaNik">here</a>.</p>
 
         </b-col>
 
@@ -134,9 +134,9 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
         <p class="name">Emma Fagan</p>
 
-            <p>Emma Fagan has read a lot of books. Emma Fagan is good at finding niche internet content. Emma Fagan loves to talk about these two things. </p>
+            <p>Emma Fagan has read a lot of books. Emma Fagan is good at finding niche internet content. Emma Fagan loves to talk about these two things. She is currently based in London. </p>
 
-          <p> Read Emma’s interview about trusting the void, fear, and her relationship using everyday tracking apps <a href="/EmmaFagan">here</a>.</p>
+          <p> Read Emma’s interview about trusting the void, fear, and her relationship with using everyday tracking apps <a href="/EmmaFagan">here</a>.</p>
         </b-col>
 
     </b-row>
@@ -154,7 +154,7 @@ text-decoration: underline;
 
         <b-col md="6" offset-md="3">
         <p class="name">Luke Murphy</p>
-              <p>Luke Murphy is a programmer and researcher based in Rotterdam, The Netherlands whose interests currently revolve around peer-to-peer systems, cypherspace, low-tech constraints, DIWO approaches, counterfoil research and community organising. He is a proud member of Varia, the center for everyday technology. His website is
+              <p>Luke Murphy is a programmer and researcher based in Rotterdam, whose interests currently revolve around peer-to-peer systems, cypherspace, low-tech constraints, DIWO approaches, counterfoil research and community organising. He is a proud member of Varia Centre for Everyday Technology. His website is
               <a href="https://decentral1.se"> here.</a></p>
 
             <p> Read Luke’s interview about start up culture, media coverage of tech and encryption, shreds of hope and alternative structures of technology <a href="/LukeMurphy">here</a>.</p>
@@ -175,10 +175,10 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
         <p class="name">Dorothy Cheung</p>
 
-          <p>Dorothy Cheung (b. 1987) is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. Take a look at her work
+          <p>Dorothy Cheung is a writer and filmmaker, currently based in Hong Kong. Her works explore ideas of identities and home through a double perspective - personal and political, memory and forgetfulness. Take a look at her work
             <a href="https://www.dorothycheung.com"> here.</a></p>
 
-            <p>Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience <a href="/DorothyCheung">here</a>.</p>
+            <p>Read Dorothy’s interview about the importance of awareness and participation in political systems, opting out from daily surveillance opportunities and considering what happens when your previous perception of government turns out to be different than your lived experience  <a href="/DorothyCheung">here</a>.</p>
         </b-col>
 
     </b-row>
@@ -196,9 +196,9 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
           <p class="name">Joannette van der Veer</p>
 
-          <p>Joannette van der Veer is a curator and write based in Rotterdam. She works in the field of design, art and culture. Take a look at her work <a href="https://www.dorothycheung.com"> here.</a></p>
+          <p>Joannette van der Veer is a curator and writer based in Rotterdam. She works in the field of design, art and culture. Take a look at her work <a href="https://www.dorothycheung.com"> here.</a></p>
 
-            <p> Read Joannette’s interview about her relationship with privacy and surveillance and the covid tracking app, her experience with drones as a way of policing, and the myth that all software is created in a vacum <a href="/JoannettevanderVeer">here</a>.</p>
+            <p> Read Joannette’s interview about her relationship with privacy and surveillance and the covid-19 tracking app, her experience with drones as a way of policing, and the myth that all software is created in a vacuum <a href="/JoannettevanderVeer">here</a>.</p>
         </b-col>
 
     </b-row>
@@ -217,9 +217,9 @@ text-decoration: underline;
           <p class="name">  Francis May</p>
 
 
-            <p>Francis May is an administrator for the <a href="http://torontosocietyofarchitects.ca">Toronto Society of Architects.</a> </p>
+            <p>Francis May is a freelance writer and an administrator for the <a href="http://torontosocietyofarchitects.ca">Toronto Society of Architects.</a> </p>
 
-              <p> Read Francis’s interview about Canada’s health data gathering system, issues of access to the covid app, and the private companies involved handling our personal bodily data <a href="/FrancisMay">here</a>.</p>
+              <p> Read Francis’s interview about Canada’s health data gathering system, issues of access to the covid-19 app, and the private companies involved handling our personal bodily data <a href="/FrancisMay">here</a>.</p>
 
         </b-col>
 
@@ -235,9 +235,9 @@ text-decoration: underline;
     <b-row class="bios">
 
         <b-col md="6" offset-md="3">
-          <p class="name">Beatriz Pero Gianni</p>
+          <p class="name">Beatriz Pero Giannini</p>
 
-          <p> Beatriz is a Peruvian-Italian architect, researcher, and designer based in Rotterdam (NL).  She graduated cum laude from the Piet Zwart Institute, Master Interior Architecture: Research + Design in 2019 in Rotterdam, and in the top 10% of her class at Universidad Peruana de Ciencias Aplicadas, Lima (PE). She is a collaborator of Goodmesh, and founder of LLAQTA an architectural studio that explores the collision of the urban and human scales.The studio is critically interested in the socio-cultural implications of design and how it produces meaning in everyday life, and committed to challenging established conceptions and norms to generate positive change through design and research.</p>
+          <p> Beatriz is a Peruvian-Italian architect, researcher, and designer based in Rotterdam.  She graduated cum laude from the Piet Zwart Institute, Master Interior Architecture: Research + Design in 2019 in Rotterdam, and in the top 10% of her class at Universidad Peruana de Ciencias Aplicadas, Lima (PE). She is a collaborator of Goodmesh, and founder of LLAQTA an architectural studio that explores the collision of the urban and human scales.The studio is critically interested in the socio-cultural implications of design and how it produces meaning in everyday life, and committed to challenging established conceptions and norms to generate positive change through design and research.</p>
 
           <p> Read Beatriz’s interview on her research into sidewalks, the politics of public space in Lima, and the perpetual myth that CCTV increases public safety <a href="/BeaPero">here</a>.</p>
 
