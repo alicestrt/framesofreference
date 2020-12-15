@@ -75,7 +75,7 @@ font-weight: 500;
 
 <p>Special thanks to Alice Strete for teaching me how to build a website from scratch and the Stimulerings Fonds for suppporting the project.</p>
 
-
+<p><a href="/AudioTour"> There is Something I've Been Meaning To Ask You...</a></p>
         </b-col>
     </b-row>
 
