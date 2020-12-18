@@ -134,7 +134,7 @@ a:hover {
 
 
     <b-row class="title">
-      <b-col md="6" offset-md="3">
+      <b-col md="6" offset-md="5">
           <p>conversation on 24/06/2020</p>
       </b-col>
     </b-row>
