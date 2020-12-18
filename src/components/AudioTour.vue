@@ -51,6 +51,16 @@ font-weight: 500;
   }
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 </style>
 
 <template>
@@ -110,11 +120,15 @@ font-weight: 500;
 
 </b-col>
 
-<p>The audio tour was brought together interlinking a series of interviews with architects, designers, and AI researchers about the increase of surveillance in their (and our) daily lives. Comprised during the summer months as the pandemic, track and trace paranoia, and protests ran throughout the world, the audio tour takes you along architectural highlights along the way, giving an intimate and personal look into place and structures you think you know, and allows you to reconsider your everyday surroundings as active sites of surveillance.
-</p>
+<b-col md="6" offset-md="3">
+   <a href="/https://gillbaldwin.com/There-is-Something-I-ve-Been-Meaning-to-Ask-You">About the Tour</a>
+
+</b-col>
+
 
         </b-col>
     </b-row>
+
 
 
 </div>

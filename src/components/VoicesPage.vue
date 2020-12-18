@@ -37,18 +37,14 @@ border: 0px black solid;
 
 }
 
-.everyonebio a:hover {
-  opacity: 50%;
-}
+
 
 .bios a {
   color: black;
   text-decoration: none;
 }
 
-.bios a:hover {
-  opacity: 50%;
-}
+
 @media (max-width: 575px) {
   .everyonebio {
     text-align: left;
@@ -61,6 +57,16 @@ text-decoration: underline;
   .name a {
     text-decoration: none;
   }
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
 }
 </style>
 
@@ -237,7 +243,7 @@ text-decoration: underline;
         <b-col md="6" offset-md="3">
           <p class="name">Beatriz Pero Giannini</p>
 
-          <p> Beatriz is a Peruvian-Italian architect, researcher, and designer based in Rotterdam.  She graduated cum laude from the Piet Zwart Institute, Master Interior Architecture: Research + Design in 2019 in Rotterdam, and in the top 10% of her class at Universidad Peruana de Ciencias Aplicadas, Lima (PE). She is a collaborator of Goodmesh, and founder of LLAQTA an architectural studio that explores the collision of the urban and human scales.The studio is critically interested in the socio-cultural implications of design and how it produces meaning in everyday life, and committed to challenging established conceptions and norms to generate positive change through design and research.</p>
+          <p> Beatriz is a Peruvian-Italian architect, researcher, and designer based in Rotterdam.  She graduated cum laude from the Piet Zwart Institute, Master Interior Architecture: Research + Design in 2019 in Rotterdam, and in the top 10% of her class at Universidad Peruana de Ciencias Aplicadas, Lima (PE). She is a collaborator of Goodmesh, and founder of <a href="/https://www.llaqtadesign.com/about">LLAQTA</a> an architectural studio that explores the collision of the urban and human scales.The studio is critically interested in the socio-cultural implications of design and how it produces meaning in everyday life, and committed to challenging established conceptions and norms to generate positive change through design and research.</p>
 
           <p> Read Beatriz’s interview on her research into sidewalks, the politics of public space in Lima, and the perpetual myth that CCTV increases public safety <a href="/BeaPero">here</a>.</p>
 

@@ -45,10 +45,31 @@ font-weight: 500;
     padding-right: 25px;
   }
 
+  a {
+      color: black;
+  }
+
+
+  a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
   .stimlogo {
     width: 50%;
   }
 
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 </style>
