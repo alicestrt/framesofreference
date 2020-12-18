@@ -107,7 +107,7 @@ a:hover {
 <p>Why circles? In the summer many city parks across Europe and North America were adorned with this new type of graphic, dually functioning as both décor and safety regulation to keep us separate and safe while outside. Finally, a circle never ends. There are no linear routes and no clear answers to living in our surveillance society. Round and round we go, trying to keep afloat from drowning in the ever-expanding rapids of digital literacy. Never before has the movement of human bodies through space been more important, more controlled and more scrutinized by the governments and the powers that be. This is an attempt to listen to the emotional and personal impacts that surveillance has on us and on our human bodies.
 </p>
 
-<p>There Is Something I’ve Been Meaning to Ask You, an interactive audio tour throughout the city center of Rotterdam was created as a reflection on these interviews. You can access the audio <a href="/AudioTour"> here </a>and download the booklet to take the tour here.
+<p><a href="/https://gillbaldwin.com/There-is-Something-I-ve-Been-Meaning-to-Ask-You"> There Is Something I’ve Been Meaning to Ask You </a>, an interactive audio tour throughout the city center of Rotterdam was created as a reflection on these interviews. You can access the audio <a href="/AudioTour"> here </a>and download the booklet to take the tour here.
 </p>
 
 <p>Special thanks to Alice Strete for technical support and the Stimulerings Fonds for suppporting the project.</p>
